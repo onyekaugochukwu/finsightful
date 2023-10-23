@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- (c) 2002 IASC Fountation and XBRL International -->
+<!-- Date/time created: 11/8/2002 1:02:57 PM -->
+<group 
+       xmlns='http://www.xbrl.org/2001/instance'
+       xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+       xmlns:iascf-pfs='http://www.xbrl.org/taxonomy/int/fr/ias/ci/pfs/2002-11-15'
+       xmlns:iso4217='http://www.xbrlSolutions.com/taxonomies/iso4217/2002-06-30'
+       xsi:schemaLocation='
+                 http://www.xbrl.org/taxonomy/int/fr/ias/ci/pfs/2002-11-15 ias-ci-pfs-2002-11-15.xsd 
+                 http://www.xbrlSolutions.com/taxonomies/iso4217/2002-06-30 http://www.xbrlsolutions.com/taxonomies/iso4217/2002-06-30/iso4217.xsd 
+       '>
+<!-- Row:10 Property, plant and equipment -->
+      <iascf-pfs:PropertyPlantEquipment numericContext='Current_AsOf'>540000</iascf-pfs:PropertyPlantEquipment>
+      <iascf-pfs:PropertyPlantEquipment numericContext='Prior_AsOf'>400000</iascf-pfs:PropertyPlantEquipment>
+<!-- Row:11 Investment property -->
+      <iascf-pfs:InvestmentProperty numericContext='Current_AsOf'>150000</iascf-pfs:InvestmentProperty>
+      <iascf-pfs:InvestmentProperty numericContext='Prior_AsOf'>150000</iascf-pfs:InvestmentProperty>
+<!-- Row:12 Goodwill -->
+      <iascf-pfs:Goodwill numericContext='Current_AsOf'>140000</iascf-pfs:Goodwill>
+      <iascf-pfs:Goodwill numericContext='Prior_AsOf'>150000</iascf-pfs:Goodwill>
+<!-- Row:13 Investments in associates -->
+      <iascf-pfs:InvestmentsAssociates numericContext='Current_AsOf'>60000</iascf-pfs:InvestmentsAssociates>
+      <iascf-pfs:InvestmentsAssociates numericContext='Prior_AsOf'>60000</iascf-pfs:InvestmentsAssociates>
+<!-- Row:16 Total Non Current Assets -->
+      <iascf-pfs:NonCurrentAssets numericContext='Current_AsOf'>890000</iascf-pfs:NonCurrentAssets>
+      <iascf-pfs:NonCurrentAssets numericContext='Prior_AsOf'>760000</iascf-pfs:NonCurrentAssets>
+<!-- Row:19 Inventories -->
+      <iascf-pfs:Inventories numericContext='Current_AsOf'>350000</iascf-pfs:Inventories>
+      <iascf-pfs:Inventories numericContext='Prior_AsOf'>175000</iascf-pfs:Inventories>
+<!-- Row:20 Trade and other receivables -->
+      <iascf-pfs:TradeOtherReceivablesCurrent numericContext='Current_AsOf'>490000</iascf-pfs:TradeOtherReceivablesCurrent>
+      <iascf-pfs:TradeOtherReceivablesCurrent numericContext='Prior_AsOf'>590000</iascf-pfs:TradeOtherReceivablesCurrent>
+<!-- Row:21 Prepayments -->
+      <iascf-pfs:PrepaymentsCurrent numericContext='Current_AsOf'>5000</iascf-pfs:PrepaymentsCurrent>
+      <iascf-pfs:PrepaymentsCurrent numericContext='Prior_AsOf'>5000</iascf-pfs:PrepaymentsCurrent>
+<!-- Row:22 Cash and cash equivalents -->
+      <iascf-pfs:CashCashEquivalents numericContext='Current_AsOf'>849000</iascf-pfs:CashCashEquivalents>
+      <iascf-pfs:CashCashEquivalents numericContext='Prior_AsOf'>547000</iascf-pfs:CashCashEquivalents>
+<!-- Row:24 Total Current Assets -->
+      <iascf-pfs:CurrentAssets numericContext='Current_AsOf'>1694000</iascf-pfs:CurrentAssets>
+      <iascf-pfs:CurrentAssets numericContext='Prior_AsOf'>1317000</iascf-pfs:CurrentAssets>
+<!-- Row:26 Total Assets -->
+      <iascf-pfs:Assets numericContext='Current_AsOf'>2584000</iascf-pfs:Assets>
+      <iascf-pfs:Assets numericContext='Prior_AsOf'>2077000</iascf-pfs:Assets>
+<!-- Row:31 Issued capital -->
+      <iascf-pfs:IssuedCapital numericContext='Current_AsOf'>300000</iascf-pfs:IssuedCapital>
+      <iascf-pfs:IssuedCapital numericContext='Prior_AsOf'>300000</iascf-pfs:IssuedCapital>
+<!-- Row:32 Reserves -->
+      <iascf-pfs:Reserves numericContext='Current_AsOf'>102000</iascf-pfs:Reserves>
+      <iascf-pfs:Reserves numericContext='Prior_AsOf'>104000</iascf-pfs:Reserves>
+<!-- Row:33 Accumulated profits -->
+      <iascf-pfs:RetainedProfitsAccumulatedLosses numericContext='Current_AsOf'>1083000</iascf-pfs:RetainedProfitsAccumulatedLosses>
+      <iascf-pfs:RetainedProfitsAccumulatedLosses numericContext='Prior_AsOf'>629600</iascf-pfs:RetainedProfitsAccumulatedLosses>
+<!-- Row:35 Total capital and reserves -->
+      <iascf-pfs:Equity numericContext='Current_AsOf'>1485000</iascf-pfs:Equity>
+      <iascf-pfs:Equity numericContext='Prior_AsOf'>1033600</iascf-pfs:Equity>
+<!-- Row:37 Minority interest -->
+      <iascf-pfs:MinorityInterestsNetAssets numericContext='Current_AsOf'>91000</iascf-pfs:MinorityInterestsNetAssets>
+      <iascf-pfs:MinorityInterestsNetAssets numericContext='Prior_AsOf'>90400</iascf-pfs:MinorityInterestsNetAssets>
+<!-- Row:40 Interest bearing borrowings -->
+      <iascf-pfs:InterestBearingBorrowingsNonCurrent numericContext='Current_AsOf'>560000</iascf-pfs:InterestBearingBorrowingsNonCurrent>
+      <iascf-pfs:InterestBearingBorrowingsNonCurrent numericContext='Prior_AsOf'>530000</iascf-pfs:InterestBearingBorrowingsNonCurrent>
+<!-- Row:41 Deferred tax -->
+      <iascf-pfs:DeferredIncomeNonCurrent numericContext='Current_AsOf'>31000</iascf-pfs:DeferredIncomeNonCurrent>
+      <iascf-pfs:DeferredIncomeNonCurrent numericContext='Prior_AsOf'>31000</iascf-pfs:DeferredIncomeNonCurrent>
+<!-- Row:42 Retirement benefit obligation -->
+      <iascf-pfs:PostEmploymentBenefitObligationNonCurrent numericContext='Current_AsOf'>66000</iascf-pfs:PostEmploymentBenefitObligationNonCurrent>
+      <iascf-pfs:PostEmploymentBenefitObligationNonCurrent numericContext='Prior_AsOf'>66000</iascf-pfs:PostEmploymentBenefitObligationNonCurrent>
+<!-- Row:44 Total non current liabilities -->
+      <iascf-pfs:NonCurrentLiabilities numericContext='Current_AsOf'>657000</iascf-pfs:NonCurrentLiabilities>
+      <iascf-pfs:NonCurrentLiabilities numericContext='Prior_AsOf'>627000</iascf-pfs:NonCurrentLiabilities>
+<!-- Row:47 Trade and other payables -->
+      <iascf-pfs:TradeOtherPayablesCurrent numericContext='Current_AsOf'>229000</iascf-pfs:TradeOtherPayablesCurrent>
+      <iascf-pfs:TradeOtherPayablesCurrent numericContext='Prior_AsOf'>204000</iascf-pfs:TradeOtherPayablesCurrent>
+<!-- Row:48 Current portion of interest bearing borrowings -->
+      <iascf-pfs:InterestBearingBorrowingsCurrent numericContext='Current_AsOf'>100000</iascf-pfs:InterestBearingBorrowingsCurrent>
+      <iascf-pfs:InterestBearingBorrowingsCurrent numericContext='Prior_AsOf'>100000</iascf-pfs:InterestBearingBorrowingsCurrent>
+<!-- Row:49 Other liabilities -->
+      <iascf-pfs:OtherLiabilitiesCurrent numericContext='Current_AsOf'>22000</iascf-pfs:OtherLiabilitiesCurrent>
+      <iascf-pfs:OtherLiabilitiesCurrent numericContext='Prior_AsOf'>22000</iascf-pfs:OtherLiabilitiesCurrent>
+<!-- Row:51 Total current liabilities -->
+      <iascf-pfs:CurrentLiabilities numericContext='Current_AsOf'>351000</iascf-pfs:CurrentLiabilities>
+      <iascf-pfs:CurrentLiabilities numericContext='Prior_AsOf'>326000</iascf-pfs:CurrentLiabilities>
+<!-- Row:53 Total equity and liabilities -->
+      <iascf-pfs:LiabilitiesEquity numericContext='Current_AsOf'>2584000</iascf-pfs:LiabilitiesEquity>
+      <iascf-pfs:LiabilitiesEquity numericContext='Prior_AsOf'>2077000</iascf-pfs:LiabilitiesEquity>
+<!-- Row:61 Sales -->
+      <iascf-pfs:RevenueFunction numericContext='Current_ForPeriod'>1300000</iascf-pfs:RevenueFunction>
+      <iascf-pfs:RevenueFunction numericContext='Prior_ForPeriod'>1200000</iascf-pfs:RevenueFunction>
+<!-- Row:63 Cost of goods sold -->
+      <iascf-pfs:CostSalesFunction numericContext='Current_ForPeriod'>500000</iascf-pfs:CostSalesFunction>
+      <iascf-pfs:CostSalesFunction numericContext='Prior_ForPeriod'>550000</iascf-pfs:CostSalesFunction>
+<!-- Row:65 Gross profit -->
+      <iascf-pfs:GrossProfitFunction numericContext='Current_ForPeriod'>800000</iascf-pfs:GrossProfitFunction>
+      <iascf-pfs:GrossProfitFunction numericContext='Prior_ForPeriod'>650000</iascf-pfs:GrossProfitFunction>
+<!-- Row:67 Other operating income -->
+      <iascf-pfs:OtherOperatingIncome numericContext='Current_ForPeriod'>21000</iascf-pfs:OtherOperatingIncome>
+      <iascf-pfs:OtherOperatingIncome numericContext='Prior_ForPeriod'>18000</iascf-pfs:OtherOperatingIncome>
+<!-- Row:69 Distribution costs -->
+      <iascf-pfs:MarketingDistributionCostsFunction numericContext='Current_ForPeriod'>90000</iascf-pfs:MarketingDistributionCostsFunction>
+      <iascf-pfs:MarketingDistributionCostsFunction numericContext='Prior_ForPeriod'>80000</iascf-pfs:MarketingDistributionCostsFunction>
+<!-- Row:70 Administrative expenses -->
+      <iascf-pfs:AdministrativeExpensesFunction numericContext='Current_ForPeriod'>50000</iascf-pfs:AdministrativeExpensesFunction>
+      <iascf-pfs:AdministrativeExpensesFunction numericContext='Prior_ForPeriod'>49000</iascf-pfs:AdministrativeExpensesFunction>
+<!-- Row:71 Other operating expenses -->
+      <iascf-pfs:OtherMiscellaneousOperatingExpensesFunction numericContext='Current_ForPeriod'>31000</iascf-pfs:OtherMiscellaneousOperatingExpensesFunction>
+      <iascf-pfs:OtherMiscellaneousOperatingExpensesFunction numericContext='Prior_ForPeriod'>32000</iascf-pfs:OtherMiscellaneousOperatingExpensesFunction>
+<!-- Row:73 Profit from operations -->
+      <iascf-pfs:ProfitLossOperations numericContext='Current_ForPeriod'>650000</iascf-pfs:ProfitLossOperations>
+      <iascf-pfs:ProfitLossOperations numericContext='Prior_ForPeriod'>507000</iascf-pfs:ProfitLossOperations>
+<!-- Row:75 Finance cost -->
+      <iascf-pfs:FinanceCosts numericContext='Current_ForPeriod'>9000</iascf-pfs:FinanceCosts>
+      <iascf-pfs:FinanceCosts numericContext='Prior_ForPeriod'>8000</iascf-pfs:FinanceCosts>
+<!-- Row:76 Income from associates -->
+      <iascf-pfs:ShareProfitLossEquityAccountedAssociates numericContext='Current_ForPeriod'>20000</iascf-pfs:ShareProfitLossEquityAccountedAssociates>
+      <iascf-pfs:ShareProfitLossEquityAccountedAssociates numericContext='Prior_ForPeriod'>18000</iascf-pfs:ShareProfitLossEquityAccountedAssociates>
+<!-- Row:78 Profit before tax -->
+      <iascf-pfs:ProfitLossBeforeTax numericContext='Current_ForPeriod'>661000</iascf-pfs:ProfitLossBeforeTax>
+      <iascf-pfs:ProfitLossBeforeTax numericContext='Prior_ForPeriod'>517000</iascf-pfs:ProfitLossBeforeTax>
+<!-- Row:80 Income tax expense -->
+      <iascf-pfs:IncomeTaxExpenseIncome numericContext='Current_ForPeriod'>107000</iascf-pfs:IncomeTaxExpenseIncome>
+      <iascf-pfs:IncomeTaxExpenseIncome numericContext='Prior_ForPeriod'>95000</iascf-pfs:IncomeTaxExpenseIncome>
+<!-- Row:82 Profit after tax -->
+      <iascf-pfs:ProfitLossAfterTax numericContext='Current_ForPeriod'>554000</iascf-pfs:ProfitLossAfterTax>
+      <iascf-pfs:ProfitLossAfterTax numericContext='Prior_ForPeriod'>422000</iascf-pfs:ProfitLossAfterTax>
+<!-- Row:84 Minority interest in group profit -->
+      <iascf-pfs:MinorityInterestsIncludedGroupProfitLoss numericContext='Current_ForPeriod'>600</iascf-pfs:MinorityInterestsIncludedGroupProfitLoss>
+      <iascf-pfs:MinorityInterestsIncludedGroupProfitLoss numericContext='Prior_ForPeriod'>400</iascf-pfs:MinorityInterestsIncludedGroupProfitLoss>
+<!-- Row:86 Net profit for period -->
+      <iascf-pfs:NetProfitLossTransferredToEquity numericContext='Current_ForPeriod'>553400</iascf-pfs:NetProfitLossTransferredToEquity>
+      <iascf-pfs:NetProfitLossTransferredToEquity numericContext='Prior_ForPeriod'>421600</iascf-pfs:NetProfitLossTransferredToEquity>
+<!-- Row:90 Basic -->
+      <iascf-pfs:BasicEarningsLossPerShare numericContext='Current_Shares'>1.84</iascf-pfs:BasicEarningsLossPerShare>
+      <iascf-pfs:BasicEarningsLossPerShare numericContext='Prior_Shares'>1.41</iascf-pfs:BasicEarningsLossPerShare>
+<!-- Row:91 Diluted -->
+      <iascf-pfs:DilutedEarningsLossPerShare numericContext='Current_Shares'>1.84</iascf-pfs:DilutedEarningsLossPerShare>
+      <iascf-pfs:DilutedEarningsLossPerShare numericContext='Prior_Shares'>1.41</iascf-pfs:DilutedEarningsLossPerShare>
+<!-- Row:101 Net profit -->
+      <iascf-pfs:CashFlowsBeforeChangesWorkingCapitalProfitLossOperationsNetProfitLossTransferredToEquity numericContext='Current_ForPeriod'>553400</iascf-pfs:CashFlowsBeforeChangesWorkingCapitalProfitLossOperationsNetProfitLossTransferredToEquity>
+      <iascf-pfs:CashFlowsBeforeChangesWorkingCapitalProfitLossOperationsNetProfitLossTransferredToEquity numericContext='Prior_ForPeriod'>421600</iascf-pfs:CashFlowsBeforeChangesWorkingCapitalProfitLossOperationsNetProfitLossTransferredToEquity>
+<!-- Row:104 Depreciation of property, plant and equipment -->
+      <iascf-pfs:DepreciationRelatingCashFlowsOperatingActivities numericContext='Current_ForPeriod'>10000</iascf-pfs:DepreciationRelatingCashFlowsOperatingActivities>
+      <iascf-pfs:DepreciationRelatingCashFlowsOperatingActivities numericContext='Prior_ForPeriod'>10000</iascf-pfs:DepreciationRelatingCashFlowsOperatingActivities>
+<!-- Row:105 Amortisation of goodwill -->
+      <iascf-pfs:AmortisationRelatingCashFlowsOperatingActivities numericContext='Current_ForPeriod'>10000</iascf-pfs:AmortisationRelatingCashFlowsOperatingActivities>
+      <iascf-pfs:AmortisationRelatingCashFlowsOperatingActivities numericContext='Prior_ForPeriod'>10000</iascf-pfs:AmortisationRelatingCashFlowsOperatingActivities>
+<!-- Row:106 Minority interest -->
+      <iascf-pfs:AdjustmentsReconcileProfitLossOperationsMinorityInterestsIncludedGroupProfitLoss numericContext='Current_ForPeriod'>600</iascf-pfs:AdjustmentsReconcileProfitLossOperationsMinorityInterestsIncludedGroupProfitLoss>
+      <iascf-pfs:AdjustmentsReconcileProfitLossOperationsMinorityInterestsIncludedGroupProfitLoss numericContext='Prior_ForPeriod'>400</iascf-pfs:AdjustmentsReconcileProfitLossOperationsMinorityInterestsIncludedGroupProfitLoss>
+<!-- Row:108 Operating cash flows before movements in working capital -->
+      <iascf-pfs:CashFlowsBeforeChangesWorkingCapital numericContext='Current_ForPeriod'>574000</iascf-pfs:CashFlowsBeforeChangesWorkingCapital>
+      <iascf-pfs:CashFlowsBeforeChangesWorkingCapital numericContext='Prior_ForPeriod'>442000</iascf-pfs:CashFlowsBeforeChangesWorkingCapital>
+<!-- Row:110 (Increase) decrease in inventories -->
+      <iascf-pfs:IncreaseDecreaseInventories numericContext='Current_ForPeriod'>-175000</iascf-pfs:IncreaseDecreaseInventories>
+      <iascf-pfs:IncreaseDecreaseInventories numericContext='Prior_ForPeriod'>-75000</iascf-pfs:IncreaseDecreaseInventories>
+<!-- Row:111 (Increase) decrease in trade receivables -->
+      <iascf-pfs:IncreaseDecreaseTradeOtherReceivables numericContext='Current_ForPeriod'>100000</iascf-pfs:IncreaseDecreaseTradeOtherReceivables>
+      <iascf-pfs:IncreaseDecreaseTradeOtherReceivables numericContext='Prior_ForPeriod'>-50000</iascf-pfs:IncreaseDecreaseTradeOtherReceivables>
+<!-- Row:112 (Increase) decrease in prepayments -->
+      <iascf-pfs:IncreaseDecreasePrepayments numericContext='Current_ForPeriod'>0</iascf-pfs:IncreaseDecreasePrepayments>
+      <iascf-pfs:IncreaseDecreasePrepayments numericContext='Prior_ForPeriod'>0</iascf-pfs:IncreaseDecreasePrepayments>
+<!-- Row:113 Increase (decrease) in trade payables -->
+      <iascf-pfs:IncreaseDecreaseTradeOtherPayables numericContext='Current_ForPeriod'>25000</iascf-pfs:IncreaseDecreaseTradeOtherPayables>
+      <iascf-pfs:IncreaseDecreaseTradeOtherPayables numericContext='Prior_ForPeriod'>25000</iascf-pfs:IncreaseDecreaseTradeOtherPayables>
+<!-- Row:115 Net Cash Provided by Operating Activities -->
+      <iascf-pfs:NetCashFlowsUsedOperatingActivities numericContext='Current_ForPeriod'>524000</iascf-pfs:NetCashFlowsUsedOperatingActivities>
+      <iascf-pfs:NetCashFlowsUsedOperatingActivities numericContext='Prior_ForPeriod'>342000</iascf-pfs:NetCashFlowsUsedOperatingActivities>
+<!-- Row:118 Purchase of property, plant and equipment -->
+      <iascf-pfs:PaymentsAcquirePropertyPlantEquipment numericContext='Current_ForPeriod'>200000</iascf-pfs:PaymentsAcquirePropertyPlantEquipment>
+      <iascf-pfs:PaymentsAcquirePropertyPlantEquipment numericContext='Prior_ForPeriod'>100000</iascf-pfs:PaymentsAcquirePropertyPlantEquipment>
+<!-- Row:119 Disposal of propery, plant and equipment -->
+      <iascf-pfs:ProceedsDisposalPropertyPlantEquipment numericContext='Current_ForPeriod'>50000</iascf-pfs:ProceedsDisposalPropertyPlantEquipment>
+      <iascf-pfs:ProceedsDisposalPropertyPlantEquipment numericContext='Prior_ForPeriod'>0</iascf-pfs:ProceedsDisposalPropertyPlantEquipment>
+<!-- Row:121 Net Cash Provided by (Used by) Investing Activities -->
+      <iascf-pfs:NetCashFlowsUsedInvestingActivities numericContext='Current_ForPeriod'>0</iascf-pfs:NetCashFlowsUsedInvestingActivities>
+      <iascf-pfs:NetCashFlowsUsedInvestingActivities numericContext='Prior_ForPeriod'>0</iascf-pfs:NetCashFlowsUsedInvestingActivities>
+<!-- Row:124 Dividends paid -->
+      <iascf-pfs:DividendsPaidClassifiedFinancing numericContext='Current_ForPeriod'>100000</iascf-pfs:DividendsPaidClassifiedFinancing>
+      <iascf-pfs:DividendsPaidClassifiedFinancing numericContext='Prior_ForPeriod'>50000</iascf-pfs:DividendsPaidClassifiedFinancing>
+<!-- Row:125 Proceeds from long term borrowing -->
+      <iascf-pfs:ProceedsIssueFinancialLiabilityInstruments numericContext='Current_ForPeriod'>100000</iascf-pfs:ProceedsIssueFinancialLiabilityInstruments>
+      <iascf-pfs:ProceedsIssueFinancialLiabilityInstruments numericContext='Prior_ForPeriod'>200000</iascf-pfs:ProceedsIssueFinancialLiabilityInstruments>
+<!-- Row:126 Payment of long term borrowing -->
+      <iascf-pfs:RepaymentFinancialLiabilityInstruments numericContext='Current_ForPeriod'>-70000</iascf-pfs:RepaymentFinancialLiabilityInstruments>
+      <iascf-pfs:RepaymentFinancialLiabilityInstruments numericContext='Prior_ForPeriod'>-50000</iascf-pfs:RepaymentFinancialLiabilityInstruments>
+<!-- Row:128 Net Cash Provided by (Used by) Financing Activities -->
+      <iascf-pfs:NetCashFlowsUsedFinancingActivities numericContext='Current_ForPeriod'>-70000</iascf-pfs:NetCashFlowsUsedFinancingActivities>
+      <iascf-pfs:NetCashFlowsUsedFinancingActivities numericContext='Prior_ForPeriod'>100000</iascf-pfs:NetCashFlowsUsedFinancingActivities>
+<!-- Row:130 Net increase (decrease) in Cash and cash equivalents -->
+      <iascf-pfs:NetIncreaseDecreaseCashCashEquivalents numericContext='Current_ForPeriod'>304000</iascf-pfs:NetIncreaseDecreaseCashCashEquivalents>
+      <iascf-pfs:NetIncreaseDecreaseCashCashEquivalents numericContext='Prior_ForPeriod'>342000</iascf-pfs:NetIncreaseDecreaseCashCashEquivalents>
+<!-- Row:132 Cash and Cash Equivalents, Beginning of Year -->
+      <iascf-pfs:CashCashEquivalentsBeginningBalance numericContext='Prior_AsOf'>547000</iascf-pfs:CashCashEquivalentsBeginningBalance>
+      <iascf-pfs:CashCashEquivalentsBeginningBalance numericContext='PriorPrior_AsOf'>201000</iascf-pfs:CashCashEquivalentsBeginningBalance>
+<!-- Row:134 Effect of Foreign Exchange Rate Changes -->
+      <iascf-pfs:EffectExchangeRateChangesCashCashEquivalents numericContext='Current_ForPeriod'>-2000</iascf-pfs:EffectExchangeRateChangesCashCashEquivalents>
+      <iascf-pfs:EffectExchangeRateChangesCashCashEquivalents numericContext='Prior_ForPeriod'>4000</iascf-pfs:EffectExchangeRateChangesCashCashEquivalents>
+<!-- Row:136 Cash and Cash Equivalents, End of Year -->
+      <iascf-pfs:CashCashEquivalentsEndingBalance numericContext='Current_AsOf'>849000</iascf-pfs:CashCashEquivalentsEndingBalance>
+      <iascf-pfs:CashCashEquivalentsEndingBalance numericContext='Prior_AsOf'>547000</iascf-pfs:CashCashEquivalentsEndingBalance>
+<!-- Row:287 Beginning balance, Share Capital -->
+      <iascf-pfs:ShareCapitalOrdinarySharesBeginningBalanceOriginallyStated numericContext='Prior_AsOf'>300000</iascf-pfs:ShareCapitalOrdinarySharesBeginningBalanceOriginallyStated>
+      <iascf-pfs:ShareCapitalOrdinarySharesBeginningBalanceOriginallyStated numericContext='PriorPrior_AsOf'>300000</iascf-pfs:ShareCapitalOrdinarySharesBeginningBalanceOriginallyStated>
+<!-- Row:294 Ending balance, Share Capital -->
+      <iascf-pfs:ShareCapitalOrdinarySharesEndingBalance numericContext='Current_AsOf'>300000</iascf-pfs:ShareCapitalOrdinarySharesEndingBalance>
+      <iascf-pfs:ShareCapitalOrdinarySharesEndingBalance numericContext='Prior_AsOf'>300000</iascf-pfs:ShareCapitalOrdinarySharesEndingBalance>
+<!-- Row:298 Beginning balance, Revaluation Reserve -->
+      <iascf-pfs:RevaluationReservesBeginningBalanceOriginallyStated numericContext='Prior_AsOf'>100000</iascf-pfs:RevaluationReservesBeginningBalanceOriginallyStated>
+      <iascf-pfs:RevaluationReservesBeginningBalanceOriginallyStated numericContext='PriorPrior_AsOf'>90000</iascf-pfs:RevaluationReservesBeginningBalanceOriginallyStated>
+<!-- Row:302 Revaluation of property, plant and equipment, Revaluation Reserve -->
+      <iascf-pfs:RevaluationReservesChangesNetGainsLossesNotRecognisedIncome numericContext='Current_ForPeriod'>0</iascf-pfs:RevaluationReservesChangesNetGainsLossesNotRecognisedIncome>
+      <iascf-pfs:RevaluationReservesChangesNetGainsLossesNotRecognisedIncome numericContext='Prior_ForPeriod'>10000</iascf-pfs:RevaluationReservesChangesNetGainsLossesNotRecognisedIncome>
+<!-- Row:305 Ending balance, Revaluation Reserve -->
+      <iascf-pfs:RevaluationReservesEndingBalance numericContext='Current_AsOf'>100000</iascf-pfs:RevaluationReservesEndingBalance>
+      <iascf-pfs:RevaluationReservesEndingBalance numericContext='Prior_AsOf'>100000</iascf-pfs:RevaluationReservesEndingBalance>
+<!-- Row:308 Beginning balance, Translation Reserve -->
+      <iascf-pfs:TranslationReservesBeginningBalanceOriginallyStated numericContext='Prior_AsOf'>4000</iascf-pfs:TranslationReservesBeginningBalanceOriginallyStated>
+      <iascf-pfs:TranslationReservesBeginningBalanceOriginallyStated numericContext='PriorPrior_AsOf'>0</iascf-pfs:TranslationReservesBeginningBalanceOriginallyStated>
+<!-- Row:313 Foreign translation adjustment, Translation Reserve -->
+      <iascf-pfs:TranslationReservesChangesForeignCurrencyTranslationEffect numericContext='Current_ForPeriod'>-2000</iascf-pfs:TranslationReservesChangesForeignCurrencyTranslationEffect>
+      <iascf-pfs:TranslationReservesChangesForeignCurrencyTranslationEffect numericContext='Prior_ForPeriod'>4000</iascf-pfs:TranslationReservesChangesForeignCurrencyTranslationEffect>
+<!-- Row:315 Ending balance, Translation Reserve -->
+      <iascf-pfs:TranslationReservesEndingBalance numericContext='Current_AsOf'>2000</iascf-pfs:TranslationReservesEndingBalance>
+      <iascf-pfs:TranslationReservesEndingBalance numericContext='Prior_AsOf'>4000</iascf-pfs:TranslationReservesEndingBalance>
+<!-- Row:321 Beginning balance, Accumulated Profits -->
+      <iascf-pfs:RetainedProfitsAccumulatedLossesBeginningBalanceOriginallyStated numericContext='Prior_AsOf'>629600</iascf-pfs:RetainedProfitsAccumulatedLossesBeginningBalanceOriginallyStated>
+      <iascf-pfs:RetainedProfitsAccumulatedLossesBeginningBalanceOriginallyStated numericContext='PriorPrior_AsOf'>258000</iascf-pfs:RetainedProfitsAccumulatedLossesBeginningBalanceOriginallyStated>
+<!-- Row:323 Net income, Accumulated Profits -->
+      <iascf-pfs:RetainedProfitsAccumulatedLossesChangesNetProfitLossTransferredToEquity numericContext='Current_ForPeriod'>553400</iascf-pfs:RetainedProfitsAccumulatedLossesChangesNetProfitLossTransferredToEquity>
+      <iascf-pfs:RetainedProfitsAccumulatedLossesChangesNetProfitLossTransferredToEquity numericContext='Prior_ForPeriod'>421600</iascf-pfs:RetainedProfitsAccumulatedLossesChangesNetProfitLossTransferredToEquity>
+<!-- Row:324 Dividends paid, Accumulated Profits -->
+      <iascf-pfs:RetainedProfitsAccumulatedLossesChangesPaymentsCashDividends numericContext='Current_ForPeriod'>-100000</iascf-pfs:RetainedProfitsAccumulatedLossesChangesPaymentsCashDividends>
+      <iascf-pfs:RetainedProfitsAccumulatedLossesChangesPaymentsCashDividends numericContext='Prior_ForPeriod'>-50000</iascf-pfs:RetainedProfitsAccumulatedLossesChangesPaymentsCashDividends>
+<!-- Row:328 Ending balance, Accumulated Profits -->
+      <iascf-pfs:RetainedProfitsAccumulatedLossesEndingBalance numericContext='Current_AsOf'>1083000</iascf-pfs:RetainedProfitsAccumulatedLossesEndingBalance>
+      <iascf-pfs:RetainedProfitsAccumulatedLossesEndingBalance numericContext='Prior_AsOf'>629600</iascf-pfs:RetainedProfitsAccumulatedLossesEndingBalance>
+<!-- Row:331 Beginning balance, Total Equity -->
+      <iascf-pfs:EquityTotalBeginningBalanceOriginallyStated numericContext='Prior_AsOf'>1033600</iascf-pfs:EquityTotalBeginningBalanceOriginallyStated>
+      <iascf-pfs:EquityTotalBeginningBalanceOriginallyStated numericContext='PriorPrior_AsOf'>648000</iascf-pfs:EquityTotalBeginningBalanceOriginallyStated>
+<!-- Row:333 Net income, Total Equity -->
+      <iascf-pfs:EquityTotalChangesNetProfitLossTransferredToEquity numericContext='Current_ForPeriod'>553400</iascf-pfs:EquityTotalChangesNetProfitLossTransferredToEquity>
+      <iascf-pfs:EquityTotalChangesNetProfitLossTransferredToEquity numericContext='Prior_ForPeriod'>421600</iascf-pfs:EquityTotalChangesNetProfitLossTransferredToEquity>
+<!-- Row:334 Dividends paid, Total Equity -->
+      <iascf-pfs:EquityTotalChangesPaymentsCashDividends numericContext='Current_ForPeriod'>-100000</iascf-pfs:EquityTotalChangesPaymentsCashDividends>
+      <iascf-pfs:EquityTotalChangesPaymentsCashDividends numericContext='Prior_ForPeriod'>-50000</iascf-pfs:EquityTotalChangesPaymentsCashDividends>
+<!-- Row:335 Revaluation of property, plant and equipment, Total Equity -->
+      <iascf-pfs:EquityTotalChangesNetGainsLossesNotRecognisedIncome numericContext='Current_ForPeriod'>0</iascf-pfs:EquityTotalChangesNetGainsLossesNotRecognisedIncome>
+      <iascf-pfs:EquityTotalChangesNetGainsLossesNotRecognisedIncome numericContext='Prior_ForPeriod'>10000</iascf-pfs:EquityTotalChangesNetGainsLossesNotRecognisedIncome>
+<!-- Row:336 Foreign translation adjustment, Total Equity -->
+      <iascf-pfs:EquityTotalChangesForeignCurrencyTranslationEffect numericContext='Current_ForPeriod'>-2000</iascf-pfs:EquityTotalChangesForeignCurrencyTranslationEffect>
+      <iascf-pfs:EquityTotalChangesForeignCurrencyTranslationEffect numericContext='Prior_ForPeriod'>4000</iascf-pfs:EquityTotalChangesForeignCurrencyTranslationEffect>
+<!-- Row:338 Ending balance, Total Equity -->
+      <iascf-pfs:EquityTotalEndingBalance numericContext='Current_AsOf'>1485000</iascf-pfs:EquityTotalEndingBalance>
+      <iascf-pfs:EquityTotalEndingBalance numericContext='Prior_AsOf'>1033600</iascf-pfs:EquityTotalEndingBalance>
+      <numericContext id='Current_AsOf' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <instant>2002-12-31</instant>
+         </period>
+         <unit>
+            <measure>iso4217:EUR</measure>
+         </unit>
+      </numericContext>
+      <numericContext id='Current_ForPeriod' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <duration>P1Y</duration>
+            <endDate>2002-12-31</endDate>
+         </period>
+         <unit>
+            <measure>iso4217:EUR</measure>
+         </unit>
+      </numericContext>
+      <numericContext id='Prior_AsOf' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <instant>2001-12-31</instant>
+         </period>
+         <unit>
+            <measure>iso4217:EUR</measure>
+         </unit>
+      </numericContext>
+      <numericContext id='Prior_ForPeriod' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <duration>P1Y</duration>
+            <endDate>2001-12-31</endDate>
+         </period>
+         <unit>
+            <measure>iso4217:EUR</measure>
+         </unit>
+      </numericContext>
+      <numericContext id='PriorPrior_AsOf' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <instant>2000-12-31</instant>
+         </period>
+         <unit>
+            <measure>iso4217:EUR</measure>
+         </unit>
+      </numericContext>
+      <numericContext id='Current_Shares' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <instant>2000-12-31</instant>
+         </period>
+         <unit>
+            <measure>xsi:decimal</measure>
+         </unit>
+      </numericContext>
+      <numericContext id='Prior_Shares' precision='18' cwa='true'>
+         <entity>
+            <identifier scheme='http://www.sampleCompany.com'>Sample Company</identifier>
+         </entity>
+         <period>
+            <instant>2000-12-31</instant>
+         </period>
+         <unit>
+            <measure>xsi:decimal</measure>
+         </unit>
+      </numericContext>
+</group>
