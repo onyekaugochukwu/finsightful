@@ -1,0 +1,1272 @@
+{
+    "Amendment Flag": "false",
+    "Document Fiscal Year Focus": "2021",
+    "Document Fiscal Period Focus": "FY",
+    "Entity Central Index Key": "0000320193",
+    "Property Plant And Equipment Useful Life": "seven years",
+    "Revenue Remaining Performance Obligation Expected Timing Of Satisfaction Period1": "",
+    "Operating Lease Right Of Use Asset Statement Of Financial Position Extensible List": "http://fasb.org/us-gaap/2021-01-31#OtherAssetsNoncurrent",
+    "Finance Lease Right Of Use Asset Statement Of Financial Position Extensible List": "http://fasb.org/us-gaap/2021-01-31#PropertyPlantAndEquipmentNet",
+    "Operating Lease Liability Current Statement Of Financial Position Extensible List": "http://fasb.org/us-gaap/2021-01-31#OtherLiabilitiesCurrent",
+    "Operating Lease Liability Noncurrent Statement Of Financial Position Extensible List": "http://fasb.org/us-gaap/2021-01-31#OtherLiabilitiesNoncurrent",
+    "Finance Lease Liability Current Statement Of Financial Position Extensible List": "http://fasb.org/us-gaap/2021-01-31#OtherLiabilitiesCurrent",
+    "Finance Lease Liability Noncurrent Statement Of Financial Position Extensible List": "http://fasb.org/us-gaap/2021-01-31#OtherLiabilitiesNoncurrent",
+    "Document Type": "10-K",
+    "Document Annual Report": "\u2612",
+    "Document Period End Date": "September\u00a025, 2021",
+    "Current Fiscal Year End Date": "September\u00a025",
+    "Document Transition Report": "\u2610",
+    "Entity File Number": "001-36743",
+    "Entity Registrant Name": "Apple Inc.",
+    "Entity Incorporation State Country Code": "California",
+    "Entity Tax Identification Number": "94-2404110",
+    "Entity Address Address Line1": "One Apple Park Way",
+    "Entity Address City Or Town": "Cupertino",
+    "Entity Address State Or Province": "California",
+    "Entity Address Postal Zip Code": "95014",
+    "City Area Code": "408",
+    "Local Phone Number": "996-1010",
+    "Security12b Title": "3.600% Notes due 2042",
+    "Trading Symbol": "AAPL",
+    "Security Exchange Name": "The Nasdaq Stock Market LLC",
+    "No Trading Symbol Flag": true,
+    "Entity Well Known Seasoned Issuer": "Yes",
+    "Entity Voluntary Filers": "No",
+    "Entity Current Reporting Status": "Yes",
+    "Entity Interactive Data Current": "Yes",
+    "Entity Filer Category": "Large accelerated filer",
+    "Entity Small Business": "\u2610",
+    "Entity Emerging Growth Company": "\u2610",
+    "Icfr Auditor Attestation Flag": "\u2612",
+    "Entity Shell Company": "\u2610",
+    "Basis Of Presentation And Significant Accounting Policies Text Block": "Summary of Significant Accounting PoliciesBasis of Presentation and PreparationThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries (collectively \u201cApple\u201d or the \u201cCompany\u201d). Intercompany accounts and transactions have been eliminated. In the opinion of the Company\u2019s management, the consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The preparation of these consolidated financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported. Actual results could differ materially from those estimates. Certain prior period amounts in the consolidated financial statements and accompanying notes have been reclassified to conform to the current period\u2019s presentation.The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company\u2019s fiscal quarters with calendar quarters. The Company\u2019s fiscal years 2021, 2020 and 2019 spanned 52 weeks each. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company\u2019s fiscal years ended in September and the associated quarters, months and periods of those fiscal years.Recently Adopted Accounting PronouncementsFinancial Instruments \u2013 Credit LossesAt the beginning of the first quarter of 2021, the Company adopted the Financial Accounting Standards Board\u2019s (the \u201cFASB\u201d) Accounting Standards Update (\u201cASU\u201d) No. 2016-13, Financial Instruments \u2013 Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (\u201cASU 2016-13\u201d), which modifies the measurement of expected credit losses on certain financial instruments. The Company adopted ASU 2016-13 utilizing the modified retrospective transition method. The adoption of ASU 2016-13 did not have a material impact on the Company\u2019s condensed consolidated financial statements.Advertising CostsAdvertising costs are expensed as incurred and included in selling, general and administrative expenses.Share-Based CompensationThe Company generally measures share-based compensation based on the closing price of the Company\u2019s common stock on the date of grant, and recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest. Further information regarding share-based compensation can be found in Note 9, \u201cBenefit Plans.\u201dEarnings Per ShareThe following table shows the computation of basic and diluted earnings per share for 2021, 2020 and 2019 (net income in millions and shares in thousands):202120202019Numerator:Net income$94,680\u00a0$57,411\u00a0$55,256\u00a0Denominator:Weighted-average basic shares outstanding16,701,272\u00a017,352,119\u00a018,471,336\u00a0Effect of dilutive securities163,647\u00a0176,095\u00a0124,315\u00a0Weighted-average diluted shares16,864,919\u00a017,528,214\u00a018,595,651\u00a0Basic earnings per share$5.67\u00a0$3.31\u00a0$2.99\u00a0Diluted earnings per share$5.61\u00a0$3.28\u00a0$2.97\u00a0The Company applies the treasury stock method to determine the dilutive effect of potentially dilutive securities. Potentially dilutive securities representing 62 million shares of common stock were excluded from the computation of diluted earnings per share for 2019 because their effect would have been antidilutive.Cash Equivalents and Marketable SecuritiesAll highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents.The Company\u2019s investments in marketable debt securities have been classified and accounted for as available-for-sale. The Company classifies its marketable debt securities as either short-term or long-term based on each instrument\u2019s underlying contractual maturity date. Unrealized gains and losses on marketable debt securities classified as available-for-sale are recognized in other comprehensive income/(loss) (\u201cOCI\u201d). The Company\u2019s investments in marketable equity securities are classified based on the nature of the securities and their availability for use in current operations. The Company\u2019s marketable equity securities are measured at fair value with gains and losses recognized in other income/(expense), net (\u201cOIE\u201d).The cost of securities sold is determined using the specific identification method.InventoriesInventories are measured using the first-in, first-out method.Property, Plant and EquipmentDepreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which for buildings is the lesser of 40 years or the remaining life of the building; between one and five years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the estimated useful lives of the assets, which range from five to seven years. Depreciation and amortization expense on property and equipment was $9.5 billion, $9.7 billion and $11.3 billion during 2021, 2020 and 2019, respectively.Noncash investing activities involving property, plant and equipment resulted in a net decrease to accounts payable and other current liabilities of $2.9 billion during 2019.Restricted Cash and Restricted Marketable SecuritiesThe Company considers cash and marketable securities to be restricted when withdrawal or general use is legally restricted. The Company reports restricted cash as other assets in the Consolidated Balance Sheets, and determines current or non-current classification based on the expected duration of the restriction. The Company reports restricted marketable securities as current or non-current marketable securities in the Consolidated Balance Sheets based on the classification of the underlying securities.Derivative Instruments and HedgingAll derivative instruments are recorded in the Consolidated Balance Sheets at fair value. The accounting treatment for derivative gains and losses is based on intended use and hedge designation.Gains and losses arising from amounts that are included in the assessment of cash flow hedge effectiveness are initially deferred in accumulated other comprehensive income/(loss) (\u201cAOCI\u201d) and subsequently reclassified into earnings when the hedged transaction affects earnings, and in the same line item in the Consolidated Statements of Operations. For options designated as cash flow hedges, the Company excludes time value from the assessment of hedge effectiveness and recognizes it on a straight-line basis over the life of the hedge in the Consolidated Statements of Operations line item to which the hedge relates. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.Gains and losses arising from amounts that are included in the assessment of fair value hedge effectiveness are recognized in the Consolidated Statements of Operations line item to which the hedge relates along with offsetting losses and gains related to the change in value of the hedged item. For foreign exchange forward contracts designated as fair value hedges, the Company excludes the forward carry component from the assessment of hedge effectiveness and recognizes it in OIE on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.Gains and losses arising from changes in the fair values of derivative instruments that are not designated as accounting hedges are recognized in the Consolidated Statements of Operations line items to which the derivative instruments relate.The Company presents derivative assets and liabilities at their gross fair values in the Consolidated Balance Sheets. The Company classifies cash flows related to derivative instruments as operating activities in the Consolidated Statements of Cash Flows.Fair Value MeasurementsThe fair values of the Company\u2019s money market funds and certain marketable equity securities are based on quoted prices in active markets for identical assets. The valuation techniques used to measure the fair value of the Company\u2019s debt instruments and all other financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.",
+    "Basis Of Accounting Policy Policy Text Block": "Basis of Presentation and PreparationThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries (collectively \u201cApple\u201d or the \u201cCompany\u201d). Intercompany accounts and transactions have been eliminated. In the opinion of the Company\u2019s management, the consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The preparation of these consolidated financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported. Actual results could differ materially from those estimates. Certain prior period amounts in the consolidated financial statements and accompanying notes have been reclassified to conform to the current period\u2019s presentation.",
+    "Fiscal Period": "The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company\u2019s fiscal quarters with calendar quarters. The Company\u2019s fiscal years 2021, 2020 and 2019 spanned 52 weeks each. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company\u2019s fiscal years ended in September and the associated quarters, months and periods of those fiscal years.",
+    "New Accounting Pronouncements Policy Policy Text Block": "Recently Adopted Accounting PronouncementsFinancial Instruments \u2013 Credit LossesAt the beginning of the first quarter of 2021, the Company adopted the Financial Accounting Standards Board\u2019s (the \u201cFASB\u201d) Accounting Standards Update (\u201cASU\u201d) No. 2016-13, Financial Instruments \u2013 Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (\u201cASU 2016-13\u201d), which modifies the measurement of expected credit losses on certain financial instruments. The Company adopted ASU 2016-13 utilizing the modified retrospective transition method. The adoption of ASU 2016-13 did not have a material impact on the Company\u2019s condensed consolidated financial statements.",
+    "Advertising Costs Policy Text Block": "Advertising CostsAdvertising costs are expensed as incurred and included in selling, general and administrative expenses.",
+    "Compensation Related Costs Policy Text Block": "Share-Based CompensationThe Company generally measures share-based compensation based on the closing price of the Company\u2019s common stock on the date of grant, and recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest. Further information regarding share-based compensation can be found in Note 9, \u201cBenefit Plans.\u201d",
+    "Schedule Of Earnings Per Share Basic And Diluted Table Text Block": "The following table shows the computation of basic and diluted earnings per share for 2021, 2020 and 2019 (net income in millions and shares in thousands):202120202019Numerator:Net income$94,680\u00a0$57,411\u00a0$55,256\u00a0Denominator:Weighted-average basic shares outstanding16,701,272\u00a017,352,119\u00a018,471,336\u00a0Effect of dilutive securities163,647\u00a0176,095\u00a0124,315\u00a0Weighted-average diluted shares16,864,919\u00a017,528,214\u00a018,595,651\u00a0Basic earnings per share$5.67\u00a0$3.31\u00a0$2.99\u00a0Diluted earnings per share$5.61\u00a0$3.28\u00a0$2.97",
+    "Earnings Per Share Policy Text Block": "The Company applies the treasury stock method to determine the dilutive effect of potentially dilutive securities.",
+    "Cash And Cash Equivalents Policy Text Block": "All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents.",
+    "Marketable Securities Policy": "The Company\u2019s investments in marketable debt securities have been classified and accounted for as available-for-sale. The Company classifies its marketable debt securities as either short-term or long-term based on each instrument\u2019s underlying contractual maturity date. Unrealized gains and losses on marketable debt securities classified as available-for-sale are recognized in other comprehensive income/(loss) (\u201cOCI\u201d). The Company\u2019s investments in marketable equity securities are classified based on the nature of the securities and their availability for use in current operations. The Company\u2019s marketable equity securities are measured at fair value with gains and losses recognized in other income/(expense), net (\u201cOIE\u201d).The cost of securities sold is determined using the specific identification method.",
+    "Inventory Policy Text Block": "InventoriesInventories are measured using the first-in, first-out method.",
+    "Property Plant And Equipment Policy Text Block": "Property, Plant and EquipmentDepreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which for buildings is the lesser of 40 years or the remaining life of the building; between one and five years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the estimated useful lives of the assets, which range from five to seven years.",
+    "Restricted Cashand Restricted Marketable Securities Policy Text Block": "Restricted Cash and Restricted Marketable SecuritiesThe Company considers cash and marketable securities to be restricted when withdrawal or general use is legally restricted. The Company reports restricted cash as other assets in the Consolidated Balance Sheets, and determines current or non-current classification based on the expected duration of the restriction. The Company reports restricted marketable securities as current or non-current marketable securities in the Consolidated Balance Sheets based on the classification of the underlying securities.",
+    "Derivatives Policy Text Block": "Derivative Instruments and HedgingAll derivative instruments are recorded in the Consolidated Balance Sheets at fair value. The accounting treatment for derivative gains and losses is based on intended use and hedge designation.Gains and losses arising from amounts that are included in the assessment of cash flow hedge effectiveness are initially deferred in accumulated other comprehensive income/(loss) (\u201cAOCI\u201d) and subsequently reclassified into earnings when the hedged transaction affects earnings, and in the same line item in the Consolidated Statements of Operations. For options designated as cash flow hedges, the Company excludes time value from the assessment of hedge effectiveness and recognizes it on a straight-line basis over the life of the hedge in the Consolidated Statements of Operations line item to which the hedge relates. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.Gains and losses arising from amounts that are included in the assessment of fair value hedge effectiveness are recognized in the Consolidated Statements of Operations line item to which the hedge relates along with offsetting losses and gains related to the change in value of the hedged item. For foreign exchange forward contracts designated as fair value hedges, the Company excludes the forward carry component from the assessment of hedge effectiveness and recognizes it in OIE on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.Gains and losses arising from changes in the fair values of derivative instruments that are not designated as accounting hedges are recognized in the Consolidated Statements of Operations line items to which the derivative instruments relate.The Company presents derivative assets and liabilities at their gross fair values in the Consolidated Balance Sheets. The Company classifies cash flows related to derivative instruments as operating activities in the Consolidated Statements of Cash Flows.",
+    "Fair Value Measurement Policy Policy Text Block": "Fair Value MeasurementsThe fair values of the Company\u2019s money market funds and certain marketable equity securities are based on quoted prices in active markets for identical assets. The valuation techniques used to measure the fair value of the Company\u2019s debt instruments and all other financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.",
+    "Revenue From Contract With Customer Text Block": "Revenue RecognitionNet sales consist of revenue from the sale of iPhone, Mac, iPad, Services and other products. The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers. Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers. For most of the Company\u2019s Products net sales, control transfers when products are shipped. For the Company\u2019s Services net sales, control transfers over time as services are delivered. Payment for Products and Services net sales is collected within a short period following transfer of control or commencement of delivery of services, as applicable.The Company records reductions to Products net sales related to future product returns, price protection and other customer incentive programs based on the Company\u2019s expectations and historical experience.For arrangements with multiple performance obligations, which represent promises within an arrangement that are distinct, the Company allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (\u201cSSPs\u201d). When available, the Company uses observable prices to determine SSPs. When observable prices are not available, SSPs are established that reflect the Company\u2019s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis. The Company\u2019s process for estimating SSPs without observable prices considers multiple factors that may vary depending upon the unique facts and circumstances related to each performance obligation including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings, product-specific business objectives and the estimated cost to provide the performance obligation.The Company has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone, Mac, iPad and certain other products. The first performance obligation, which represents the substantial portion of the allocated sales price, is the hardware and bundled software delivered at the time of sale. The second performance obligation is the right to receive certain product-related bundled services, which include iCloud\u00ae, Siri and Maps. The third performance obligation is the right to receive, on a when-and-if-available basis, future unspecified software upgrades relating to the software bundled with each device. The Company allocates revenue and any related discounts to these performance obligations based on their relative SSPs. Because the Company lacks observable prices for the undelivered performance obligations, the allocation of revenue is based on the Company\u2019s estimated SSPs. Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped. Revenue allocated to the product-related bundled services and unspecified software upgrade rights is deferred and recognized on a straight-line basis over the estimated period they are expected to be provided. Cost of sales related to delivered hardware and bundled software, including estimated warranty costs, are recognized at the time of sale. Costs incurred to provide product-related bundled services and unspecified software upgrade rights are recognized as cost of sales as incurred.For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For these arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that any unbilled consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized revenue, and has elected not to disclose amounts, related to these undelivered services.For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products including, but not limited to, evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For third-party applications sold through the App Store and certain digital content sold through the Company\u2019s other digital content stores, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains.The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.Deferred RevenueAs of September\u00a025, 2021 and September\u00a026, 2020, the Company had total deferred revenue of $11.9 billion and $10.2 billion, respectively. As of September\u00a025, 2021, the Company expects 64% of total deferred revenue to be realized in less than a year, 26% within one-to-two years, 8% within two-to-three years and 2% in greater than three years.Disaggregated RevenueNet sales disaggregated by significant products and services for 2021, 2020 and 2019 were as follows (in millions):202120202019iPhone (1)$191,973\u00a0$137,781\u00a0$142,381\u00a0Mac (1)35,190\u00a028,622\u00a025,740\u00a0iPad (1)31,862\u00a023,724\u00a021,280\u00a0Wearables, Home and Accessories (1)(2)38,367\u00a030,620\u00a024,482\u00a0Services (3)68,425\u00a053,768\u00a046,291\u00a0Total net sales (4)$365,817\u00a0$274,515\u00a0$260,174\u00a0(1)Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.(2)Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and accessories.(3)Services net sales include sales from the Company\u2019s advertising, AppleCare, cloud, digital content, payment and other services. Services net sales also include amortization of the deferred value of services bundled in the sales price of certain products.(4)Includes $6.7 billion of revenue recognized in 2021 that was included in deferred revenue as of September\u00a026, 2020, $5.0 billion of revenue recognized in 2020 that was included in deferred revenue as of September\u00a028, 2019, and $5.9 billion of revenue recognized in 2019 that was included in deferred revenue as of September\u00a029, 2018.The Company\u2019s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 11, \u201cSegment Information and Geographic Data\u201d for 2021, 2020 and 2019.",
+    "Revenue Recognition Policy Text Block": "Revenue RecognitionNet sales consist of revenue from the sale of iPhone, Mac, iPad, Services and other products. The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers. Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers. For most of the Company\u2019s Products net sales, control transfers when products are shipped. For the Company\u2019s Services net sales, control transfers over time as services are delivered. Payment for Products and Services net sales is collected within a short period following transfer of control or commencement of delivery of services, as applicable.The Company records reductions to Products net sales related to future product returns, price protection and other customer incentive programs based on the Company\u2019s expectations and historical experience.For arrangements with multiple performance obligations, which represent promises within an arrangement that are distinct, the Company allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (\u201cSSPs\u201d). When available, the Company uses observable prices to determine SSPs. When observable prices are not available, SSPs are established that reflect the Company\u2019s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis. The Company\u2019s process for estimating SSPs without observable prices considers multiple factors that may vary depending upon the unique facts and circumstances related to each performance obligation including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings, product-specific business objectives and the estimated cost to provide the performance obligation.The Company has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone, Mac, iPad and certain other products. The first performance obligation, which represents the substantial portion of the allocated sales price, is the hardware and bundled software delivered at the time of sale. The second performance obligation is the right to receive certain product-related bundled services, which include iCloud\u00ae, Siri and Maps. The third performance obligation is the right to receive, on a when-and-if-available basis, future unspecified software upgrades relating to the software bundled with each device. The Company allocates revenue and any related discounts to these performance obligations based on their relative SSPs. Because the Company lacks observable prices for the undelivered performance obligations, the allocation of revenue is based on the Company\u2019s estimated SSPs. Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped. Revenue allocated to the product-related bundled services and unspecified software upgrade rights is deferred and recognized on a straight-line basis over the estimated period they are expected to be provided. Cost of sales related to delivered hardware and bundled software, including estimated warranty costs, are recognized at the time of sale. Costs incurred to provide product-related bundled services and unspecified software upgrade rights are recognized as cost of sales as incurred.For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For these arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that any unbilled consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized revenue, and has elected not to disclose amounts, related to these undelivered services.For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products including, but not limited to, evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For third-party applications sold through the App Store and certain digital content sold through the Company\u2019s other digital content stores, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains.The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.",
+    "Disaggregation Of Revenue Table Text Block": "Net sales disaggregated by significant products and services for 2021, 2020 and 2019 were as follows (in millions):202120202019iPhone (1)$191,973\u00a0$137,781\u00a0$142,381\u00a0Mac (1)35,190\u00a028,622\u00a025,740\u00a0iPad (1)31,862\u00a023,724\u00a021,280\u00a0Wearables, Home and Accessories (1)(2)38,367\u00a030,620\u00a024,482\u00a0Services (3)68,425\u00a053,768\u00a046,291\u00a0Total net sales (4)$365,817\u00a0$274,515\u00a0$260,174\u00a0(1)Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.(2)Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and accessories.(3)Services net sales include sales from the Company\u2019s advertising, AppleCare, cloud, digital content, payment and other services. Services net sales also include amortization of the deferred value of services bundled in the sales price of certain products.(4)Includes $6.7 billion of revenue recognized in 2021 that was included in deferred revenue as of September\u00a026, 2020, $5.0 billion of revenue recognized in 2020 that was included in deferred revenue as of September\u00a028, 2019, and $5.9 billion of revenue recognized in 2019 that was included in deferred revenue as of September\u00a029, 2018.",
+    "Financial Instruments Disclosure Text Block": "Financial InstrumentsCash, Cash Equivalents and Marketable SecuritiesThe following tables show the Company\u2019s cash, cash equivalents and marketable securities by significant investment category as of September\u00a025, 2021 and September\u00a026, 2020 (in millions): 2021AdjustedCostUnrealizedGainsUnrealizedLossesFairValueCash andCashEquivalentsCurrentMarketableSecuritiesNon-CurrentMarketableSecuritiesCash$17,305\u00a0$\u2014\u00a0$\u2014\u00a0$17,305\u00a0$17,305\u00a0$\u2014\u00a0$\u2014\u00a0Level 1 (1):Money market funds9,608\u00a0\u2014\u00a0\u2014\u00a09,608\u00a09,608\u00a0\u2014\u00a0\u2014\u00a0Mutual funds175\u00a011\u00a0(1)185\u00a0\u2014\u00a0185\u00a0\u2014\u00a0Subtotal9,783\u00a011\u00a0(1)9,793\u00a09,608\u00a0185\u00a0\u2014\u00a0Level 2 (2):Equity securities1,527\u00a0\u2014\u00a0(564)963\u00a0\u2014\u00a0963\u00a0\u2014\u00a0U.S. Treasury securities22,878\u00a0102\u00a0(77)22,903\u00a03,596\u00a06,625\u00a012,682\u00a0U.S. agency securities8,949\u00a02\u00a0(64)8,887\u00a01,775\u00a01,930\u00a05,182\u00a0Non-U.S. government securities20,201\u00a0211\u00a0(101)20,311\u00a0390\u00a03,091\u00a016,830\u00a0Certificates of deposit and time deposits1,300\u00a0\u2014\u00a0\u2014\u00a01,300\u00a0490\u00a0810\u00a0\u2014\u00a0Commercial paper2,639\u00a0\u2014\u00a0\u2014\u00a02,639\u00a01,776\u00a0863\u00a0\u2014\u00a0Corporate debt securities83,883\u00a01,242\u00a0(267)84,858\u00a0\u2014\u00a012,327\u00a072,531\u00a0Municipal securities967\u00a014\u00a0\u2014\u00a0981\u00a0\u2014\u00a0130\u00a0851\u00a0Mortgage- and asset-backed securities20,529\u00a0171\u00a0(124)20,576\u00a0\u2014\u00a0775\u00a019,801\u00a0Subtotal162,873\u00a01,742\u00a0(1,197)163,418\u00a08,027\u00a027,514\u00a0127,877\u00a0Total (3)$189,961\u00a0$1,753\u00a0$(1,198)$190,516\u00a0$34,940\u00a0$27,699\u00a0$127,877\u00a02020AdjustedCostUnrealizedGainsUnrealizedLossesFairValueCash andCashEquivalentsCurrentMarketableSecuritiesNon-CurrentMarketableSecuritiesCash$17,773\u00a0$\u2014\u00a0$\u2014\u00a0$17,773\u00a0$17,773\u00a0$\u2014\u00a0$\u2014\u00a0Level 1 (1): Money market funds2,171\u00a0\u2014\u00a0\u2014\u00a02,171\u00a02,171\u00a0\u2014\u00a0\u2014\u00a0Level 2 (2):U.S. Treasury securities28,439\u00a0331\u00a0\u2014\u00a028,770\u00a08,580\u00a011,972\u00a08,218\u00a0U.S. agency securities8,604\u00a08\u00a0\u2014\u00a08,612\u00a02,009\u00a03,078\u00a03,525\u00a0Non-U.S. government securities19,361\u00a0275\u00a0(186)19,450\u00a0255\u00a03,329\u00a015,866\u00a0Certificates of deposit and time deposits10,399\u00a0\u2014\u00a0\u2014\u00a010,399\u00a04,043\u00a06,246\u00a0110\u00a0Commercial paper11,226\u00a0\u2014\u00a0\u2014\u00a011,226\u00a03,185\u00a08,041\u00a0\u2014\u00a0Corporate debt securities76,937\u00a01,834\u00a0(175)78,596\u00a0\u2014\u00a019,687\u00a058,909\u00a0Municipal securities1,001\u00a022\u00a0\u2014\u00a01,023\u00a0\u2014\u00a0139\u00a0884\u00a0Mortgage- and asset-backed securities13,520\u00a0314\u00a0(24)13,810\u00a0\u2014\u00a0435\u00a013,375\u00a0Subtotal169,487\u00a02,784\u00a0(385)171,886\u00a018,072\u00a052,927\u00a0100,887\u00a0Total (3)$189,431\u00a0$2,784\u00a0$(385)$191,830\u00a0$38,016\u00a0$52,927\u00a0$100,887\u00a0(1)Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.(2)Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.(3)As of September\u00a025, 2021 and September\u00a026, 2020, total marketable securities included $17.9 billion and $18.6 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, \u201cIncome Taxes\u201d) and other agreements.The Company may sell certain of its marketable debt securities prior to their stated maturities for reasons including, but not limited to, managing liquidity, credit risk, duration and asset allocation. The following table shows the fair value of the Company\u2019s non-current marketable debt securities, by contractual maturity, as of September\u00a025, 2021 (in millions):Due after 1 year through 5 years$83,755\u00a0Due after 5 years through 10 years23,915\u00a0Due after 10 years20,207\u00a0Total fair value$127,877\u00a0The Company typically invests in highly rated securities, with the primary objective of minimizing the potential risk of principal loss. The Company\u2019s investment policy generally requires securities to be investment grade and limits the amount of credit exposure to any one issuer. Fair values were determined for each individual security in the investment portfolio.Derivative Instruments and HedgingThe Company may use derivative instruments to partially offset its business exposure to foreign exchange and interest rate risk. However, the Company may choose not to hedge certain exposures for a variety of reasons including, but not limited to, accounting considerations or the prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in foreign exchange or interest rates.Foreign Exchange RiskTo protect gross margins from fluctuations in foreign currency exchange rates, the Company may enter into forward contracts, option contracts or other instruments, and may designate these instruments as cash flow hedges. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.To protect the Company\u2019s foreign currency\u2013denominated term debt or marketable securities from fluctuations in foreign currency exchange rates, the Company may enter into forward contracts, cross-currency swaps or other instruments. The Company designates these instruments as either cash flow or fair value hedges. As of September\u00a025, 2021, the Company\u2019s hedged term debt\u2013 and marketable securities\u2013related foreign currency transactions are expected to be recognized within 21 years.The Company may also enter into derivative instruments that are not designated as accounting hedges to protect gross margins from certain fluctuations in foreign currency exchange rates, as well as to offset a portion of the foreign currency exchange gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.Interest Rate RiskTo protect the Company\u2019s term debt or marketable securities from fluctuations in interest rates, the Company may enter into interest rate swaps, options or other instruments. The Company designates these instruments as either cash flow or fair value hedges.The notional amounts of the Company\u2019s outstanding derivative instruments as of September\u00a025, 2021 and September\u00a026, 2020 were as follows (in millions):20212020Derivative instruments designated as accounting hedges:Foreign exchange contracts$76,475\u00a0$57,410\u00a0Interest rate contracts$16,875\u00a0$20,700\u00a0Derivative instruments not designated as accounting hedges:Foreign exchange contracts$126,918\u00a0$88,636\u00a0The gross fair values of the Company\u2019s derivative assets and liabilities were not material as of September\u00a025, 2021 and September\u00a026, 2020.The gains and losses recognized in OCI and amounts reclassified from AOCI to net income for the Company\u2019s derivative instruments designated as cash flow hedges were not material in 2021, 2020 and 2019.The carrying amounts of the Company\u2019s hedged items in fair value hedges as of September\u00a025, 2021 and September\u00a026, 2020 were as follows (in millions):20212020Hedged assets/(liabilities):Current and non-current marketable securities$15,954\u00a0$16,270\u00a0Current and non-current term debt$(17,857)$(21,033)The gains and losses on the Company\u2019s derivative instruments designated as fair value hedges and the related hedged item adjustments were not material in 2021, 2020 and 2019.Accounts ReceivableTrade ReceivablesThe Company has considerable trade receivables outstanding with its third-party cellular network carriers, wholesalers, retailers, resellers, small and mid-sized businesses and education, enterprise and government customers. The Company generally does not require collateral from its customers; however, the Company will require collateral or third-party credit support in certain instances to limit credit risk. In addition, when possible, the Company attempts to limit credit risk on trade receivables with credit insurance for certain customers or by requiring third-party financing, loans or leases to support credit exposure. These credit-financing arrangements are directly between the third-party financing company and the end customer. As such, the Company generally does not assume any recourse or credit risk sharing related to any of these arrangements.As of both September\u00a025, 2021 and September\u00a026, 2020, the Company had no customers that individually represented 10% or more of total trade receivables. The Company\u2019s cellular network carriers accounted for 42% of total trade receivables as of September\u00a025, 2021.Vendor Non-Trade ReceivablesThe Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture subassemblies or assemble final products for the Company. The Company purchases these components directly from suppliers. As of September\u00a025, 2021, the Company had three vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 52%, 11% and 11%. As of September\u00a026, 2020, the Company had two vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 57% and 11%.",
+    "Schedule Of Cash Cash Equivalents And Short Term Investments Table Text Block": "The following tables show the Company\u2019s cash, cash equivalents and marketable securities by significant investment category as of September\u00a025, 2021 and September\u00a026, 2020 (in millions): 2021AdjustedCostUnrealizedGainsUnrealizedLossesFairValueCash andCashEquivalentsCurrentMarketableSecuritiesNon-CurrentMarketableSecuritiesCash$17,305\u00a0$\u2014\u00a0$\u2014\u00a0$17,305\u00a0$17,305\u00a0$\u2014\u00a0$\u2014\u00a0Level 1 (1):Money market funds9,608\u00a0\u2014\u00a0\u2014\u00a09,608\u00a09,608\u00a0\u2014\u00a0\u2014\u00a0Mutual funds175\u00a011\u00a0(1)185\u00a0\u2014\u00a0185\u00a0\u2014\u00a0Subtotal9,783\u00a011\u00a0(1)9,793\u00a09,608\u00a0185\u00a0\u2014\u00a0Level 2 (2):Equity securities1,527\u00a0\u2014\u00a0(564)963\u00a0\u2014\u00a0963\u00a0\u2014\u00a0U.S. Treasury securities22,878\u00a0102\u00a0(77)22,903\u00a03,596\u00a06,625\u00a012,682\u00a0U.S. agency securities8,949\u00a02\u00a0(64)8,887\u00a01,775\u00a01,930\u00a05,182\u00a0Non-U.S. government securities20,201\u00a0211\u00a0(101)20,311\u00a0390\u00a03,091\u00a016,830\u00a0Certificates of deposit and time deposits1,300\u00a0\u2014\u00a0\u2014\u00a01,300\u00a0490\u00a0810\u00a0\u2014\u00a0Commercial paper2,639\u00a0\u2014\u00a0\u2014\u00a02,639\u00a01,776\u00a0863\u00a0\u2014\u00a0Corporate debt securities83,883\u00a01,242\u00a0(267)84,858\u00a0\u2014\u00a012,327\u00a072,531\u00a0Municipal securities967\u00a014\u00a0\u2014\u00a0981\u00a0\u2014\u00a0130\u00a0851\u00a0Mortgage- and asset-backed securities20,529\u00a0171\u00a0(124)20,576\u00a0\u2014\u00a0775\u00a019,801\u00a0Subtotal162,873\u00a01,742\u00a0(1,197)163,418\u00a08,027\u00a027,514\u00a0127,877\u00a0Total (3)$189,961\u00a0$1,753\u00a0$(1,198)$190,516\u00a0$34,940\u00a0$27,699\u00a0$127,877\u00a02020AdjustedCostUnrealizedGainsUnrealizedLossesFairValueCash andCashEquivalentsCurrentMarketableSecuritiesNon-CurrentMarketableSecuritiesCash$17,773\u00a0$\u2014\u00a0$\u2014\u00a0$17,773\u00a0$17,773\u00a0$\u2014\u00a0$\u2014\u00a0Level 1 (1): Money market funds2,171\u00a0\u2014\u00a0\u2014\u00a02,171\u00a02,171\u00a0\u2014\u00a0\u2014\u00a0Level 2 (2):U.S. Treasury securities28,439\u00a0331\u00a0\u2014\u00a028,770\u00a08,580\u00a011,972\u00a08,218\u00a0U.S. agency securities8,604\u00a08\u00a0\u2014\u00a08,612\u00a02,009\u00a03,078\u00a03,525\u00a0Non-U.S. government securities19,361\u00a0275\u00a0(186)19,450\u00a0255\u00a03,329\u00a015,866\u00a0Certificates of deposit and time deposits10,399\u00a0\u2014\u00a0\u2014\u00a010,399\u00a04,043\u00a06,246\u00a0110\u00a0Commercial paper11,226\u00a0\u2014\u00a0\u2014\u00a011,226\u00a03,185\u00a08,041\u00a0\u2014\u00a0Corporate debt securities76,937\u00a01,834\u00a0(175)78,596\u00a0\u2014\u00a019,687\u00a058,909\u00a0Municipal securities1,001\u00a022\u00a0\u2014\u00a01,023\u00a0\u2014\u00a0139\u00a0884\u00a0Mortgage- and asset-backed securities13,520\u00a0314\u00a0(24)13,810\u00a0\u2014\u00a0435\u00a013,375\u00a0Subtotal169,487\u00a02,784\u00a0(385)171,886\u00a018,072\u00a052,927\u00a0100,887\u00a0Total (3)$189,431\u00a0$2,784\u00a0$(385)$191,830\u00a0$38,016\u00a0$52,927\u00a0$100,887\u00a0(1)Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.(2)Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.(3)As of September\u00a025, 2021 and September\u00a026, 2020, total marketable securities included $17.9 billion and $18.6 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, \u201cIncome Taxes\u201d) and other agreements.",
+    "Investments Classified By Contractual Maturity Date Table Text Block": "The following table shows the fair value of the Company\u2019s non-current marketable debt securities, by contractual maturity, as of September\u00a025, 2021 (in millions):Due after 1 year through 5 years$83,755\u00a0Due after 5 years through 10 years23,915\u00a0Due after 10 years20,207\u00a0Total fair value$127,877",
+    "Maximum Length Of Time Foreign Currency Cash Flow Hedge": "21",
+    "Schedule Of Notional Amounts Of Outstanding Derivative Positions Table Text Block": "The notional amounts of the Company\u2019s outstanding derivative instruments as of September\u00a025, 2021 and September\u00a026, 2020 were as follows (in millions):20212020Derivative instruments designated as accounting hedges:Foreign exchange contracts$76,475\u00a0$57,410\u00a0Interest rate contracts$16,875\u00a0$20,700\u00a0Derivative instruments not designated as accounting hedges:Foreign exchange contracts$126,918\u00a0$88,636",
+    "Schedule Of Fair Value Hedging Instruments Statements Of Financial Performance And Financial Position Location Table Text Block": "The carrying amounts of the Company\u2019s hedged items in fair value hedges as of September\u00a025, 2021 and September\u00a026, 2020 were as follows (in millions):20212020Hedged assets/(liabilities):Current and non-current marketable securities$15,954\u00a0$16,270\u00a0Current and non-current term debt$(17,857)$(21,033)",
+    "Additional Financial Information Disclosure Text Block": "Consolidated Financial Statement DetailsThe following tables show the Company\u2019s consolidated financial statement details as of September\u00a025, 2021 and September\u00a026, 2020 (in millions):Property, Plant and Equipment, Net20212020Land and buildings$20,041\u00a0$17,952\u00a0Machinery, equipment and internal-use software78,659\u00a075,291\u00a0Leasehold improvements11,023\u00a010,283\u00a0Gross property, plant and equipment109,723\u00a0103,526\u00a0Accumulated depreciation and amortization(70,283)(66,760)Total property, plant and equipment, net$39,440\u00a0$36,766\u00a0Other Non-Current Liabilities20212020Long-term taxes payable$24,689\u00a0$28,170\u00a0Other non-current liabilities28,636\u00a026,320\u00a0Total other non-current liabilities$53,325\u00a0$54,490\u00a0Other Income/(Expense), NetThe following table shows the detail of OIE for 2021, 2020 and 2019 (in millions):202120202019Interest and dividend income$2,843\u00a0$3,763\u00a0$4,961\u00a0Interest expense(2,645)(2,873)(3,576)Other income/(expense), net60\u00a0(87)422\u00a0Total other income/(expense), net$258\u00a0$803\u00a0$1,807",
+    "Property Plant And Equipment Text Block": "Property, Plant and Equipment, Net20212020Land and buildings$20,041\u00a0$17,952\u00a0Machinery, equipment and internal-use software78,659\u00a075,291\u00a0Leasehold improvements11,023\u00a010,283\u00a0Gross property, plant and equipment109,723\u00a0103,526\u00a0Accumulated depreciation and amortization(70,283)(66,760)Total property, plant and equipment, net$39,440\u00a0$36,766",
+    "Other Noncurrent Liabilities Table Text Block": "Other Non-Current Liabilities20212020Long-term taxes payable$24,689\u00a0$28,170\u00a0Other non-current liabilities28,636\u00a026,320\u00a0Total other non-current liabilities$53,325\u00a0$54,490",
+    "Interest And Other Income Table Text Block": "Other Income/(Expense), NetThe following table shows the detail of OIE for 2021, 2020 and 2019 (in millions):202120202019Interest and dividend income$2,843\u00a0$3,763\u00a0$4,961\u00a0Interest expense(2,645)(2,873)(3,576)Other income/(expense), net60\u00a0(87)422\u00a0Total other income/(expense), net$258\u00a0$803\u00a0$1,807",
+    "Income Tax Disclosure Text Block": "Income TaxesProvision for Income Taxes and Effective Tax RateThe provision for income taxes for 2021, 2020 and 2019, consisted of the following (in millions):202120202019Federal:Current$8,257\u00a0$6,306\u00a0$6,384\u00a0Deferred(7,176)(3,619)(2,939)Total1,081\u00a02,687\u00a03,445\u00a0State:Current1,620\u00a0455\u00a0475\u00a0Deferred(338)21\u00a0(67)Total1,282\u00a0476\u00a0408\u00a0Foreign:Current9,424\u00a03,134\u00a03,962\u00a0Deferred2,740\u00a03,383\u00a02,666\u00a0Total12,164\u00a06,517\u00a06,628\u00a0Provision for income taxes$14,527\u00a0$9,680\u00a0$10,481\u00a0The foreign provision for income taxes is based on foreign pretax earnings of $68.7 billion, $38.1 billion and $44.3 billion in 2021, 2020 and 2019, respectively.A reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (21% in 2021, 2020 and 2019) to income before provision for income taxes for 2021, 2020 and 2019, is as follows (dollars in millions):202120202019Computed expected tax$22,933\u00a0$14,089\u00a0$13,805\u00a0State taxes, net of federal effect1,151\u00a0423\u00a0423\u00a0Impacts of the U.S. Tax Cuts and Jobs Act of 2017\u2014\u00a0(582)\u2014\u00a0Earnings of foreign subsidiaries(4,715)(2,534)(2,625)Foreign-derived intangible income deduction(1,372)(169)(149)Research and development credit, net(1,033)(728)(548)Excess tax benefits from equity awards(2,137)(930)(639)Other(300)111\u00a0214\u00a0Provision for income taxes$14,527\u00a0$9,680\u00a0$10,481\u00a0Effective tax rate13.3\u00a0%14.4\u00a0%15.9\u00a0%Deferred Tax Assets and LiabilitiesAs of September\u00a025, 2021 and September\u00a026, 2020, the significant components of the Company\u2019s deferred tax assets and liabilities were (in millions):20212020Deferred tax assets:Amortization and depreciation$5,575\u00a0$8,317\u00a0Accrued liabilities and other reserves5,895\u00a04,934\u00a0Lease liabilities2,406\u00a02,038\u00a0Deferred revenue5,399\u00a01,638\u00a0Tax credit carryforwards4,262\u00a0797\u00a0Other1,639\u00a01,612\u00a0Total deferred tax assets25,176\u00a019,336\u00a0Less: Valuation allowance(4,903)(1,041)Total deferred tax assets, net20,273\u00a018,295\u00a0Deferred tax liabilities:Minimum tax on foreign earnings4,318\u00a07,045\u00a0Right-of-use assets2,167\u00a01,862\u00a0Unrealized gains203\u00a0526\u00a0Other512\u00a0705\u00a0Total deferred tax liabilities7,200\u00a010,138\u00a0Net deferred tax assets$13,073\u00a0$8,157\u00a0Deferred tax assets and liabilities reflect the effects of tax credits and the future income tax effects of temporary differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases, and are measured using enacted tax rates that apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The Company has elected to record certain deferred tax assets and liabilities in connection with the minimum tax on certain foreign earnings created by the U.S. Tax Cuts and Jobs Act of 2017 (the \u201cAct\u201d).As of September\u00a025, 2021, the Company had $2.6\u00a0billion in foreign tax credit carryforwards in Ireland and $1.6\u00a0billion in California research and development credit carryforwards, both of which can be carried forward indefinitely. A valuation allowance has been recorded for the tax credit carryforwards and a portion of other temporary differences.Uncertain Tax PositionsAs of September\u00a025, 2021, the total amount of gross unrecognized tax benefits was $15.5 billion, of which $6.6 billion, if recognized, would impact the Company\u2019s effective tax rate. As of September\u00a026, 2020, the total amount of gross unrecognized tax benefits was $16.5 billion, of which $8.8 billion, if recognized, would have impacted the Company\u2019s effective tax rate.The aggregate change in the balance of gross unrecognized tax benefits, which excludes interest and penalties, for 2021, 2020 and 2019, is as follows (in millions):202120202019Beginning balances$16,475\u00a0$15,619\u00a0$9,694\u00a0Increases related to tax positions taken during a prior year816\u00a0454\u00a05,845\u00a0Decreases related to tax positions taken during a prior year(1,402)(791)(686)Increases related to tax positions taken during the current year1,607\u00a01,347\u00a01,697\u00a0Decreases related to settlements with taxing authorities(1,838)(85)(852)Decreases related to expiration of the statute of limitations(181)(69)(79)Ending balances$15,477\u00a0$16,475\u00a0$15,619\u00a0The Company is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. Tax years after 2015 for the U.S. federal jurisdiction, and after 2014 in certain major foreign jurisdictions, remain subject to examination. Although the timing of resolution and/or closure of examinations is not certain, the Company believes it is reasonably possible that its gross unrecognized tax benefits could decrease in the next 12 months by as much as $1.2\u00a0billion.Interest and PenaltiesThe Company includes interest and penalties related to income tax matters within the provision for income taxes. As of September\u00a025, 2021 and September\u00a026, 2020, the total amount of gross interest and penalties accrued was $1.5 billion and $1.4 billion, respectively. The Company recognized interest and penalty expense of $219 million, $85 million and $73 million in 2021, 2020 and 2019, respectively.European Commission State Aid DecisionOn August 30, 2016, the European Commission announced its decision that Ireland granted state aid to the Company by providing tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (the \u201cState Aid Decision\u201d). The State Aid Decision ordered Ireland to calculate and recover additional taxes from the Company for the period June 2003 through December 2014. Irish legislative changes, effective as of January 2015, eliminated the application of the tax opinions from that date forward. The recovery amount was calculated to be \u20ac13.1 billion, plus interest of \u20ac1.2 billion. The Company and Ireland appealed the State Aid Decision to the General Court of the Court of Justice of the European Union (the \u201cGeneral Court\u201d). On July 15, 2020, the General Court annulled the State Aid Decision. On September 25, 2020, the European Commission appealed the General Court\u2019s decision to the European Court of Justice. The Company believes that any incremental Irish corporate income taxes potentially due related to the State Aid Decision would be creditable against U.S. taxes, subject to any foreign tax credit limitations in the Act.On an annual basis, the Company may request approval from the Irish Minister for Finance to reduce the recovery amount for certain taxes paid to other countries. As of September\u00a025, 2021, the adjusted recovery amount was \u20ac12.7 billion, excluding interest. The adjusted recovery amount plus interest is funded into escrow, where it will remain restricted from general use pending the conclusion of all legal proceedings. Refer to the Cash, Cash Equivalents and Marketable Securities section of Note 3, \u201cFinancial Instruments\u201d for more information.",
+    "Schedule Of Components Of Income Tax Expense Benefit Table Text Block": "The provision for income taxes for 2021, 2020 and 2019, consisted of the following (in millions):202120202019Federal:Current$8,257\u00a0$6,306\u00a0$6,384\u00a0Deferred(7,176)(3,619)(2,939)Total1,081\u00a02,687\u00a03,445\u00a0State:Current1,620\u00a0455\u00a0475\u00a0Deferred(338)21\u00a0(67)Total1,282\u00a0476\u00a0408\u00a0Foreign:Current9,424\u00a03,134\u00a03,962\u00a0Deferred2,740\u00a03,383\u00a02,666\u00a0Total12,164\u00a06,517\u00a06,628\u00a0Provision for income taxes$14,527\u00a0$9,680\u00a0$10,481",
+    "Schedule Of Effective Income Tax Rate Reconciliation Table Text Block": "A reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (21% in 2021, 2020 and 2019) to income before provision for income taxes for 2021, 2020 and 2019, is as follows (dollars in millions):202120202019Computed expected tax$22,933\u00a0$14,089\u00a0$13,805\u00a0State taxes, net of federal effect1,151\u00a0423\u00a0423\u00a0Impacts of the U.S. Tax Cuts and Jobs Act of 2017\u2014\u00a0(582)\u2014\u00a0Earnings of foreign subsidiaries(4,715)(2,534)(2,625)Foreign-derived intangible income deduction(1,372)(169)(149)Research and development credit, net(1,033)(728)(548)Excess tax benefits from equity awards(2,137)(930)(639)Other(300)111\u00a0214\u00a0Provision for income taxes$14,527\u00a0$9,680\u00a0$10,481\u00a0Effective tax rate13.3\u00a0%14.4\u00a0%15.9\u00a0%",
+    "Schedule Of Deferred Tax Assets And Liabilities Table Text Block": "As of September\u00a025, 2021 and September\u00a026, 2020, the significant components of the Company\u2019s deferred tax assets and liabilities were (in millions):20212020Deferred tax assets:Amortization and depreciation$5,575\u00a0$8,317\u00a0Accrued liabilities and other reserves5,895\u00a04,934\u00a0Lease liabilities2,406\u00a02,038\u00a0Deferred revenue5,399\u00a01,638\u00a0Tax credit carryforwards4,262\u00a0797\u00a0Other1,639\u00a01,612\u00a0Total deferred tax assets25,176\u00a019,336\u00a0Less: Valuation allowance(4,903)(1,041)Total deferred tax assets, net20,273\u00a018,295\u00a0Deferred tax liabilities:Minimum tax on foreign earnings4,318\u00a07,045\u00a0Right-of-use assets2,167\u00a01,862\u00a0Unrealized gains203\u00a0526\u00a0Other512\u00a0705\u00a0Total deferred tax liabilities7,200\u00a010,138\u00a0Net deferred tax assets$13,073\u00a0$8,157",
+    "Income Tax Policy Text Block": "The Company has elected to record certain deferred tax assets and liabilities in connection with the minimum tax on certain foreign earnings created by the U.S. Tax Cuts and Jobs Act of 2017 (the \u201cAct\u201d).The Company includes interest and penalties related to income tax matters within the provision for income taxes.",
+    "Schedule Of Unrecognized Tax Benefits Roll Forward Table Text Block": "The aggregate change in the balance of gross unrecognized tax benefits, which excludes interest and penalties, for 2021, 2020 and 2019, is as follows (in millions):202120202019Beginning balances$16,475\u00a0$15,619\u00a0$9,694\u00a0Increases related to tax positions taken during a prior year816\u00a0454\u00a05,845\u00a0Decreases related to tax positions taken during a prior year(1,402)(791)(686)Increases related to tax positions taken during the current year1,607\u00a01,347\u00a01,697\u00a0Decreases related to settlements with taxing authorities(1,838)(85)(852)Decreases related to expiration of the statute of limitations(181)(69)(79)Ending balances$15,477\u00a0$16,475\u00a0$15,619",
+    "Lessee Operating Leases Text Block": "LeasesThe Company has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing and data center space. These leases typically have original terms not exceeding 10 years and generally contain multiyear renewal options, some of which are reasonably certain of exercise. The Company\u2019s lease arrangements may contain both lease and nonlease components. The Company has elected to combine and account for lease and nonlease components as a single lease component for leases of retail, corporate, and data center facilities.Payments under the Company\u2019s lease arrangements may be fixed or variable, and variable lease payments are primarily based on purchases of output of the underlying leased assets. Lease costs associated with fixed payments on the Company\u2019s operating leases were $1.7 billion and $1.5 billion for 2021 and 2020, respectively. Lease costs associated with variable payments on the Company\u2019s leases were $12.9 billion and $9.3 billion for 2021 and 2020, respectively. Rent expense for operating leases, as previously reported under former lease accounting standards, was $1.3\u00a0billion in 2019.The Company made $1.4 billion and $1.5 billion of fixed cash payments related to operating leases in 2021 and 2020, respectively. Noncash activities involving right-of-use (\u201cROU\u201d) assets obtained in exchange for lease liabilities were $3.3 billion for 2021 and $10.5 billion for 2020, including the impact of adopting FASB ASU No. 2016-02, Leases (Topic 842) in the first quarter of 2020.The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September\u00a025, 2021 and September\u00a026, 2020 (in millions):Lease-Related Assets and LiabilitiesFinancial Statement Line Items20212020Right-of-use assets:Operating leasesOther non-current assets$10,087\u00a0$8,570\u00a0Finance leasesProperty, plant and equipment, net861\u00a0629\u00a0Total right-of-use assets$10,948\u00a0$9,199\u00a0Lease liabilities:Operating leasesOther current liabilities$1,449\u00a0$1,436\u00a0Other non-current liabilities9,506\u00a07,745\u00a0Finance leasesOther current liabilities79\u00a024\u00a0Other non-current liabilities769\u00a0637\u00a0Total lease liabilities$11,803\u00a0$9,842\u00a0Lease liability maturities as of September\u00a025, 2021, are as follows (in millions):OperatingLeasesFinanceLeasesTotal2022$1,629\u00a0$104\u00a0$1,733\u00a020231,560\u00a0123\u00a01,683\u00a020241,499\u00a099\u00a01,598\u00a020251,251\u00a046\u00a01,297\u00a020261,061\u00a026\u00a01,087\u00a0Thereafter5,187\u00a0868\u00a06,055\u00a0Total undiscounted liabilities12,187\u00a01,266\u00a013,453\u00a0Less: Imputed interest(1,232)(418)(1,650)Total lease liabilities$10,955\u00a0$848\u00a0$11,803\u00a0The weighted-average remaining lease term related to the Company\u2019s lease liabilities as of September\u00a025, 2021 and September\u00a026, 2020 was 10.8 years and 10.3 years, respectively.The discount rate related to the Company\u2019s lease liabilities as of both September\u00a025, 2021 and September\u00a026, 2020 was 2.0%. The discount rates are generally based on estimates of the Company\u2019s incremental borrowing rate, as the discount rates implicit in the Company\u2019s leases cannot be readily determined.As of September\u00a025, 2021, the Company had $1.1 billion of future payments under additional leases, primarily for corporate facilities and retail space, that had not yet commenced. These leases will commence between 2022 and 2023, with lease terms ranging from 3 years to 20 years.",
+    "Lessee Finance Leases Text Block": "LeasesThe Company has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing and data center space. These leases typically have original terms not exceeding 10 years and generally contain multiyear renewal options, some of which are reasonably certain of exercise. The Company\u2019s lease arrangements may contain both lease and nonlease components. The Company has elected to combine and account for lease and nonlease components as a single lease component for leases of retail, corporate, and data center facilities.Payments under the Company\u2019s lease arrangements may be fixed or variable, and variable lease payments are primarily based on purchases of output of the underlying leased assets. Lease costs associated with fixed payments on the Company\u2019s operating leases were $1.7 billion and $1.5 billion for 2021 and 2020, respectively. Lease costs associated with variable payments on the Company\u2019s leases were $12.9 billion and $9.3 billion for 2021 and 2020, respectively. Rent expense for operating leases, as previously reported under former lease accounting standards, was $1.3\u00a0billion in 2019.The Company made $1.4 billion and $1.5 billion of fixed cash payments related to operating leases in 2021 and 2020, respectively. Noncash activities involving right-of-use (\u201cROU\u201d) assets obtained in exchange for lease liabilities were $3.3 billion for 2021 and $10.5 billion for 2020, including the impact of adopting FASB ASU No. 2016-02, Leases (Topic 842) in the first quarter of 2020.The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September\u00a025, 2021 and September\u00a026, 2020 (in millions):Lease-Related Assets and LiabilitiesFinancial Statement Line Items20212020Right-of-use assets:Operating leasesOther non-current assets$10,087\u00a0$8,570\u00a0Finance leasesProperty, plant and equipment, net861\u00a0629\u00a0Total right-of-use assets$10,948\u00a0$9,199\u00a0Lease liabilities:Operating leasesOther current liabilities$1,449\u00a0$1,436\u00a0Other non-current liabilities9,506\u00a07,745\u00a0Finance leasesOther current liabilities79\u00a024\u00a0Other non-current liabilities769\u00a0637\u00a0Total lease liabilities$11,803\u00a0$9,842\u00a0Lease liability maturities as of September\u00a025, 2021, are as follows (in millions):OperatingLeasesFinanceLeasesTotal2022$1,629\u00a0$104\u00a0$1,733\u00a020231,560\u00a0123\u00a01,683\u00a020241,499\u00a099\u00a01,598\u00a020251,251\u00a046\u00a01,297\u00a020261,061\u00a026\u00a01,087\u00a0Thereafter5,187\u00a0868\u00a06,055\u00a0Total undiscounted liabilities12,187\u00a01,266\u00a013,453\u00a0Less: Imputed interest(1,232)(418)(1,650)Total lease liabilities$10,955\u00a0$848\u00a0$11,803\u00a0The weighted-average remaining lease term related to the Company\u2019s lease liabilities as of September\u00a025, 2021 and September\u00a026, 2020 was 10.8 years and 10.3 years, respectively.The discount rate related to the Company\u2019s lease liabilities as of both September\u00a025, 2021 and September\u00a026, 2020 was 2.0%. The discount rates are generally based on estimates of the Company\u2019s incremental borrowing rate, as the discount rates implicit in the Company\u2019s leases cannot be readily determined.As of September\u00a025, 2021, the Company had $1.1 billion of future payments under additional leases, primarily for corporate facilities and retail space, that had not yet commenced. These leases will commence between 2022 and 2023, with lease terms ranging from 3 years to 20 years.",
+    "Lessee Operatingand Finance Lease Termof Contract": "10",
+    "Lessee Leases Policy Text Block": "The Company\u2019s lease arrangements may contain both lease and nonlease components. The Company has elected to combine and account for lease and nonlease components as a single lease component for leases of retail, corporate, and data center facilities.",
+    "Operatingand Finance Lease Rightof Use Assetsand Lease Liabilities Table Text Block": "The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September\u00a025, 2021 and September\u00a026, 2020 (in millions):Lease-Related Assets and LiabilitiesFinancial Statement Line Items20212020Right-of-use assets:Operating leasesOther non-current assets$10,087\u00a0$8,570\u00a0Finance leasesProperty, plant and equipment, net861\u00a0629\u00a0Total right-of-use assets$10,948\u00a0$9,199\u00a0Lease liabilities:Operating leasesOther current liabilities$1,449\u00a0$1,436\u00a0Other non-current liabilities9,506\u00a07,745\u00a0Finance leasesOther current liabilities79\u00a024\u00a0Other non-current liabilities769\u00a0637\u00a0Total lease liabilities$11,803\u00a0$9,842",
+    "Finance Lease Liability Maturity Table Text Block": "Lease liability maturities as of September\u00a025, 2021, are as follows (in millions):OperatingLeasesFinanceLeasesTotal2022$1,629\u00a0$104\u00a0$1,733\u00a020231,560\u00a0123\u00a01,683\u00a020241,499\u00a099\u00a01,598\u00a020251,251\u00a046\u00a01,297\u00a020261,061\u00a026\u00a01,087\u00a0Thereafter5,187\u00a0868\u00a06,055\u00a0Total undiscounted liabilities12,187\u00a01,266\u00a013,453\u00a0Less: Imputed interest(1,232)(418)(1,650)Total lease liabilities$10,955\u00a0$848\u00a0$11,803",
+    "Lessee Operating Lease Liability Maturity Table Text Block": "Lease liability maturities as of September\u00a025, 2021, are as follows (in millions):OperatingLeasesFinanceLeasesTotal2022$1,629\u00a0$104\u00a0$1,733\u00a020231,560\u00a0123\u00a01,683\u00a020241,499\u00a099\u00a01,598\u00a020251,251\u00a046\u00a01,297\u00a020261,061\u00a026\u00a01,087\u00a0Thereafter5,187\u00a0868\u00a06,055\u00a0Total undiscounted liabilities12,187\u00a01,266\u00a013,453\u00a0Less: Imputed interest(1,232)(418)(1,650)Total lease liabilities$10,955\u00a0$848\u00a0$11,803",
+    "Operatingand Finance Lease Weighted Average Remaining Lease Term": "10.3",
+    "Lessee Operating And Finance Lease Lease Not Yet Commenced Term Of Contract": "20",
+    "Debt Disclosure Text Block": "DebtCommercial Paper and Repurchase AgreementsThe Company issues unsecured short-term promissory notes (\u201cCommercial Paper\u201d) pursuant to a commercial paper program. The Company uses net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of September\u00a025, 2021 and September\u00a026, 2020, the Company had $6.0 billion and $5.0 billion of Commercial Paper outstanding, respectively, with maturities generally less than nine months. The weighted-average interest rate of the Company\u2019s Commercial Paper was 0.06% and 0.62% as of September\u00a025, 2021 and September\u00a026, 2020, respectively. The following table provides a summary of cash flows associated with the issuance and maturities of Commercial Paper for 2021, 2020 and 2019 (in millions):202120202019Maturities 90 days or less:Proceeds from/(Repayments of) commercial paper, net$(357)$100\u00a0$(3,248)Maturities greater than 90 days:Proceeds from commercial paper7,946\u00a06,185\u00a013,874\u00a0Repayments of commercial paper(6,567)(7,248)(16,603)Proceeds from/(Repayments of) commercial paper, net1,379\u00a0(1,063)(2,729)Total proceeds from/(repayments of) commercial paper, net$1,022\u00a0$(963)$(5,977)In 2020, the Company entered into agreements to sell certain of its marketable securities with a promise to repurchase the securities at a specified time and amount (\u201cRepos\u201d). Due to the Company\u2019s continuing involvement with the marketable securities, the Company accounted for its Repos as collateralized borrowings. The Company entered into $5.2\u00a0billion of Repos during 2020, all of which had been settled as of September\u00a026, 2020.Term DebtAs of September\u00a025, 2021, the Company had outstanding floating- and fixed-rate notes with varying maturities for an aggregate principal amount of $118.1 billion (collectively the \u201cNotes\u201d). The Notes are senior unsecured obligations and interest is payable in arrears. The following table provides a summary of the Company\u2019s term debt as of September\u00a025, 2021 and September\u00a026, 2020:Maturities(calendar year)20212020Amount(in millions)EffectiveInterest RateAmount(in millions)EffectiveInterest Rate2013 \u2013 2020 debt issuances:Floating-rate notes\u00a02022$1,750\u00a00.48% \u2013 0.63%$2,250\u00a00.60% \u2013 1.39%Fixed-rate 0.000% \u2013 4.650% notes2022 \u2013 206095,813\u00a00.03% \u2013 4.78%103,828\u00a00.03% \u2013 4.78%Second quarter 2021 debt issuance:Fixed-rate 0.700% \u2013 2.800% notes2026 \u2013 206114,000\u00a00.75% \u2013 2.81%\u2014\u00a0\u2014\u00a0%Fourth quarter 2021 debt issuance:Fixed-rate 1.400% \u2013 2.850% notes2028 \u2013 20616,500\u00a01.43% \u2013 2.86%\u2014\u00a0\u2014\u00a0%Total term debt118,063\u00a0106,078\u00a0Unamortized premium/(discount) and issuance costs, net(380)(314)Hedge accounting fair value adjustments1,036\u00a01,676\u00a0Less: Current portion of term debt(9,613)(8,773)Total non-current portion of term debt$109,106\u00a0$98,667\u00a0To manage interest rate risk on certain of its U.S. dollar\u2013denominated fixed- or floating-rate notes, the Company has entered into interest rate swaps to effectively convert the fixed interest rates to floating interest rates or the floating interest rates to fixed interest rates on a portion of these notes. Additionally, to manage foreign currency risk on certain of its foreign currency\u2013denominated notes, the Company has entered into foreign currency swaps to effectively convert these notes to U.S. dollar\u2013denominated notes.The effective interest rates for the Notes include the interest on the Notes, amortization of the discount or premium and, if applicable, adjustments related to hedging. The Company recognized $2.6 billion, $2.8 billion and $3.2 billion of interest expense on its term debt for 2021, 2020 and 2019, respectively.The future principal payments for the Company\u2019s Notes as of September\u00a025, 2021, are as follows (in millions):2022$9,583\u00a0202311,391\u00a0202410,202\u00a0202510,914\u00a0202611,408\u00a0Thereafter64,565\u00a0Total term debt$118,063\u00a0As of September\u00a025, 2021 and September\u00a026, 2020, the fair value of the Company\u2019s Notes, based on Level 2 inputs, was $125.3 billion and $117.1 billion, respectively.",
+    "Debt Instrument Term": "nine months",
+    "Commercial Paper Cash Flow Summary Table Text Block": "The following table provides a summary of cash flows associated with the issuance and maturities of Commercial Paper for 2021, 2020 and 2019 (in millions):202120202019Maturities 90 days or less:Proceeds from/(Repayments of) commercial paper, net$(357)$100\u00a0$(3,248)Maturities greater than 90 days:Proceeds from commercial paper7,946\u00a06,185\u00a013,874\u00a0Repayments of commercial paper(6,567)(7,248)(16,603)Proceeds from/(Repayments of) commercial paper, net1,379\u00a0(1,063)(2,729)Total proceeds from/(repayments of) commercial paper, net$1,022\u00a0$(963)$(5,977)",
+    "Schedule Of Debt Instruments Text Block": "The following table provides a summary of the Company\u2019s term debt as of September\u00a025, 2021 and September\u00a026, 2020:Maturities(calendar year)20212020Amount(in millions)EffectiveInterest RateAmount(in millions)EffectiveInterest Rate2013 \u2013 2020 debt issuances:Floating-rate notes\u00a02022$1,750\u00a00.48% \u2013 0.63%$2,250\u00a00.60% \u2013 1.39%Fixed-rate 0.000% \u2013 4.650% notes2022 \u2013 206095,813\u00a00.03% \u2013 4.78%103,828\u00a00.03% \u2013 4.78%Second quarter 2021 debt issuance:Fixed-rate 0.700% \u2013 2.800% notes2026 \u2013 206114,000\u00a00.75% \u2013 2.81%\u2014\u00a0\u2014\u00a0%Fourth quarter 2021 debt issuance:Fixed-rate 1.400% \u2013 2.850% notes2028 \u2013 20616,500\u00a01.43% \u2013 2.86%\u2014\u00a0\u2014\u00a0%Total term debt118,063\u00a0106,078\u00a0Unamortized premium/(discount) and issuance costs, net(380)(314)Hedge accounting fair value adjustments1,036\u00a01,676\u00a0Less: Current portion of term debt(9,613)(8,773)Total non-current portion of term debt$109,106\u00a0$98,667",
+    "Debt Instrument Maturity Year Range Start": "2028",
+    "Debt Instrument Maturity Year Range End": "2061",
+    "Schedule Of Maturities Of Long Term Debt Table Text Block": "The future principal payments for the Company\u2019s Notes as of September\u00a025, 2021, are as follows (in millions):2022$9,583\u00a0202311,391\u00a0202410,202\u00a0202510,914\u00a0202611,408\u00a0Thereafter64,565\u00a0Total term debt$118,063",
+    "Stockholders Equity Note Disclosure Text Block": "Shareholders\u2019 EquityShare Repurchase ProgramAs of September\u00a025, 2021, the Company was authorized to purchase up to $315 billion of the Company\u2019s common stock under a share repurchase program (the \u201cProgram\u201d). During 2021, the Company repurchased 656 million shares of its common stock for $85.5 billion, including 36 million shares delivered under a $5.0 billion accelerated share repurchase agreement entered into in May 2021, bringing the total utilization under the Program to $254.1 billion as of September\u00a025, 2021. The Program does not obligate the Company to acquire any specific number of shares. Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d).Shares of Common StockThe following table shows the changes in shares of common stock for 2021, 2020 and 2019 (in thousands):202120202019Common stock outstanding, beginning balances16,976,763\u00a017,772,945\u00a019,019,943\u00a0Common stock repurchased(656,340)(917,270)(1,380,819)Common stock issued, net of shares withheld for employee taxes106,363\u00a0121,088\u00a0133,821\u00a0Common stock outstanding, ending balances16,426,786\u00a016,976,763\u00a017,772,945",
+    "Schedule Of Stock By Class Text Block": "The following table shows the changes in shares of common stock for 2021, 2020 and 2019 (in thousands):202120202019Common stock outstanding, beginning balances16,976,763\u00a017,772,945\u00a019,019,943\u00a0Common stock repurchased(656,340)(917,270)(1,380,819)Common stock issued, net of shares withheld for employee taxes106,363\u00a0121,088\u00a0133,821\u00a0Common stock outstanding, ending balances16,426,786\u00a016,976,763\u00a017,772,945",
+    "Compensation And Employee Benefit Plans Text Block": "Benefit Plans2014 Employee Stock PlanThe 2014 Employee Stock Plan (the \u201c2014 Plan\u201d) is a shareholder-approved plan that provides for broad-based equity grants to employees, including executive officers, and permits the granting of restricted stock units (\u201cRSUs\u201d), stock grants, performance-based awards, stock options and stock appreciation rights, as well as cash bonus awards. RSUs granted under the 2014 Plan generally vest over four years, based on continued employment, and are settled upon vesting in shares of the Company\u2019s common stock on a one-for-one basis. RSUs granted under the 2014 Plan reduce the number of shares available for grant under the plan by a factor of two times the number of RSUs granted. RSUs canceled and shares withheld to satisfy tax withholding obligations increase the number of shares available for grant under the 2014 Plan utilizing a factor of two times the number of RSUs canceled or shares withheld. All RSUs granted under the 2014 Plan have dividend equivalent rights (\u201cDERs\u201d), which entitle holders of RSUs to the same dividend value per share as holders of common stock. DERs are subject to the same vesting and other terms and conditions as the underlying RSUs. As of September\u00a025, 2021, approximately 760 million shares were reserved for future issuance under the 2014 Plan. Shares subject to outstanding awards under the 2003 Employee Stock Plan that expire, are canceled or otherwise terminate, or are withheld to satisfy tax withholding obligations for RSUs, will also be available for awards under the 2014 Plan.Apple Inc. Non-Employee Director Stock PlanThe Apple Inc. Non-Employee Director Stock Plan (the \u201cDirector Plan\u201d) is a shareholder-approved plan that (i)\u00a0permits the Company to grant awards of RSUs or stock options to the Company\u2019s non-employee directors, (ii)\u00a0provides for automatic initial grants of RSUs upon a non-employee director joining the Board of Directors and automatic annual grants of RSUs at each annual meeting of shareholders, and (iii)\u00a0permits the Board of Directors to prospectively change the value and relative mixture of stock options and RSUs for the initial and annual award grants and the methodology for determining the number of shares of the Company\u2019s common stock subject to these grants, in each case within the limits set forth in the Director Plan and without further shareholder approval. RSUs granted under the Director Plan reduce the number of shares available for grant under the plan by a factor of two times the number of RSUs granted. The Director Plan expires on November 12, 2027. All RSUs granted under the Director Plan are entitled to DERs, which are subject to the same vesting and other terms and conditions as the underlying RSUs. As of September\u00a025, 2021, approximately 4 million shares were reserved for future issuance under the Director Plan.Rule 10b5-1 Trading PlansDuring the three months ended September\u00a025, 2021, Section 16 officers Katherine L. Adams, Timothy D. Cook, Luca Maestri, Deirdre O\u2019Brien and Jeffrey Williams had equity trading plans in place in accordance with Rule 10b5-1(c)(1) under the Exchange Act. An equity trading plan is a written document that preestablishes the amounts, prices and dates (or formula for determining the amounts, prices and dates) of future purchases or sales of the Company\u2019s stock, including shares acquired under the Company\u2019s employee and director equity plans.Employee Stock Purchase PlanThe Employee Stock Purchase Plan (the \u201cPurchase Plan\u201d) is a shareholder-approved plan under which substantially all employees may voluntarily enroll to purchase the Company\u2019s common stock through payroll deductions at a price equal to 85% of the lower of the fair market values of the stock as of the beginning or the end of six-month offering periods. An employee\u2019s payroll deductions under the Purchase Plan are limited to 10% of the employee\u2019s compensation and employees may not purchase more than $25,000 of stock during any calendar year. As of September\u00a025, 2021, approximately 96 million shares were reserved for future issuance under the Purchase Plan.401(k) PlanThe Company\u2019s 401(k) Plan is a deferred salary arrangement under Section 401(k) of the Internal Revenue Code. Under the 401(k) Plan, participating U.S. employees may defer a portion of their pretax earnings, up to the U.S. Internal Revenue Service annual contribution limit ($19,500 for calendar year 2021). The Company matches 50% to 100% of each employee\u2019s contributions, depending on length of service, up to a maximum of 6% of the employee\u2019s eligible earnings.Restricted Stock UnitsA summary of the Company\u2019s RSU activity and related information for 2021, 2020 and 2019, is as follows:Number ofRSUs(in thousands)Weighted-AverageGrant Date FairValue Per RSUAggregateFair Value(in millions)Balance as of September 29, 2018368,618\u00a0$33.65\u00a0RSUs granted147,409\u00a0$53.99\u00a0RSUs vested(168,350)$33.80\u00a0RSUs canceled(21,609)$40.71\u00a0Balance as of September 28, 2019326,068\u00a0$42.30\u00a0RSUs granted156,800\u00a0$59.20\u00a0RSUs vested(157,743)$40.29\u00a0RSUs canceled(14,347)$48.07\u00a0Balance as of September 26, 2020310,778\u00a0$51.58\u00a0RSUs granted89,363\u00a0$116.33\u00a0RSUs vested(145,766)$50.71\u00a0RSUs canceled(13,948)$68.95\u00a0Balance as of September 25, 2021240,427\u00a0$75.16\u00a0$35,324\u00a0The fair value as of the respective vesting dates of RSUs was $19.0 billion, $10.8 billion and $8.6 billion for 2021, 2020 and 2019, respectively. The majority of RSUs that vested in 2021, 2020 and 2019 were net share settled such that the Company withheld shares with a value equivalent to the employees\u2019 obligation for the applicable income and other employment taxes, and remitted the cash to the appropriate taxing authorities. The total shares withheld were approximately 53 million, 56 million and 59 million for 2021, 2020 and 2019, respectively, and were based on the value of the RSUs on their respective vesting dates as determined by the Company\u2019s closing stock price. Total payments for the employees\u2019 tax obligations to taxing authorities were $6.8 billion, $3.9 billion and $3.0 billion in 2021, 2020 and 2019, respectively.Share-Based CompensationThe following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2021, 2020 and 2019 (in millions):202120202019Share-based compensation expense$7,906\u00a0$6,829\u00a0$6,068\u00a0Income tax benefit related to share-based compensation expense$(4,056)$(2,476)$(1,967)As of September\u00a025, 2021, the total unrecognized compensation cost related to outstanding RSUs and stock options was $13.6 billion, which the Company expects to recognize over a weighted-average period of 2.5 years.",
+    "Share Based Compensation Arrangement By Share Based Payment Award Award Vesting Period1": "four years",
+    "Share Based Compensation Arrangement By Share Based Payment Award Offering Period": "six-month",
+    "Schedule Of Nonvested Restricted Stock Units Activity Table Text Block": "A summary of the Company\u2019s RSU activity and related information for 2021, 2020 and 2019, is as follows:Number ofRSUs(in thousands)Weighted-AverageGrant Date FairValue Per RSUAggregateFair Value(in millions)Balance as of September 29, 2018368,618\u00a0$33.65\u00a0RSUs granted147,409\u00a0$53.99\u00a0RSUs vested(168,350)$33.80\u00a0RSUs canceled(21,609)$40.71\u00a0Balance as of September 28, 2019326,068\u00a0$42.30\u00a0RSUs granted156,800\u00a0$59.20\u00a0RSUs vested(157,743)$40.29\u00a0RSUs canceled(14,347)$48.07\u00a0Balance as of September 26, 2020310,778\u00a0$51.58\u00a0RSUs granted89,363\u00a0$116.33\u00a0RSUs vested(145,766)$50.71\u00a0RSUs canceled(13,948)$68.95\u00a0Balance as of September 25, 2021240,427\u00a0$75.16\u00a0$35,324",
+    "Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs Text Block": "The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2021, 2020 and 2019 (in millions):202120202019Share-based compensation expense$7,906\u00a0$6,829\u00a0$6,068\u00a0Income tax benefit related to share-based compensation expense$(4,056)$(2,476)$(1,967)",
+    "Employee Service Share Based Compensation Nonvested Awards Total Compensation Cost Not Yet Recognized Period For Recognition1": "2.5",
+    "Commitments And Contingencies Disclosure Text Block": "Commitments and ContingenciesAccrued Warranty and GuaranteesThe following table shows changes in the Company\u2019s accrued warranties and related costs for 2021, 2020 and 2019 (in millions):202120202019Beginning accrued warranty and related costs$3,354\u00a0$3,570\u00a0$3,692\u00a0Cost of warranty claims(2,674)(2,956)(3,857)Accruals for product warranty2,684\u00a02,740\u00a03,735\u00a0Ending accrued warranty and related costs$3,364\u00a0$3,354\u00a0$3,570\u00a0The Company offers an iPhone Upgrade Program, which is available to customers who purchase a qualifying iPhone in the U.S., the U.K. and China mainland. The iPhone Upgrade Program provides customers the right to trade in that iPhone for a specified amount when purchasing a new iPhone, provided certain conditions are met. The Company accounts for the trade-in right as a guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the guarantee liability recognized within net sales.Concentrations in the Available Sources of Supply of Materials and ProductAlthough most components essential to the Company\u2019s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company also competes for various components with other participants in the markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing fluctuations.The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until the suppliers\u2019 yields have matured or their manufacturing capacities have increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company\u2019s requirements.The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the Company will be able to extend or renew these agreements on similar terms, or at all.Substantially all of the Company\u2019s hardware products are manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland.Unconditional Purchase ObligationsThe Company has entered into certain off\u2013balance sheet commitments that require the future purchase of goods or services (\u201cunconditional purchase obligations\u201d). The Company\u2019s unconditional purchase obligations primarily consist of payments for content creation, Internet and telecommunications services and supplier arrangements. Future payments under noncancelable unconditional purchase obligations having a remaining term in excess of one year as of September\u00a025, 2021, are as follows (in millions):2022$4,551\u00a020232,165\u00a02024984\u00a02025405\u00a0202651\u00a0Thereafter28\u00a0Total$8,184\u00a0ContingenciesThe Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully resolved. The outcome of litigation is inherently uncertain. When a loss related to a legal proceeding or claim is probable and reasonably estimable, the Company accrues its best estimate for the ultimate resolution of the matter. If one or more legal matters were resolved against the Company in a reporting period for amounts above management\u2019s expectations, the Company\u2019s financial condition and operating results for that reporting period could be materially adversely affected. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims, except for the following matters:VirnetXVirnetX, Inc. (\u201cVirnetX\u201d) filed a lawsuit against the Company alleging that certain of the Company\u2019s products infringe on patents owned by VirnetX. On April 11, 2018, a jury returned a verdict against the Company in the U.S. District Court for the Eastern District of Texas (the \u201cEastern Texas District Court\u201d). The Company appealed the verdict to the U.S. Court of Appeals for the Federal Circuit, which remanded the case back to the Eastern Texas District Court, where a retrial was held in October 2020. The jury returned a verdict against the Company and awarded damages of $503 million, which the Company has appealed. The Company has challenged the validity of the patents at issue in the retrial at the U.S. Patent and Trademark Office (the \u201cPTO\u201d), and the PTO has declared the patents invalid, subject to further appeal by VirnetX.iOS Performance Management CasesOn April 5, 2018, several U.S. federal actions alleging violation of consumer protection laws, fraud, computer intrusion and other causes of action related to the Company\u2019s performance management feature used in its iPhone operating systems, introduced to certain iPhones in iOS updates 10.2.1 and 11.2, were consolidated through a Multidistrict Litigation process into a single action in the U.S. District Court for the Northern District of California (the \u201cNorthern California District Court\u201d). On February 28, 2020, the parties in the Multidistrict Litigation reached a settlement to resolve the U.S. federal and California state class actions. On March 18, 2021, the Northern California District Court granted final approval of the Multidistrict Litigation settlement, which will result in an aggregate payment of $310 million to settle all claims. The Company continues to believe that its iPhones were not defective, that the performance management feature introduced with iOS updates 10.2.1 and 11.2 was intended to, and did, improve customers\u2019 user experience, and that the Company did not make any misleading statements or fail to disclose any material information.French Competition AuthorityOn March 16, 2020, the French Competition Authority (\u201cFCA\u201d) announced its decision that aspects of the Company\u2019s sales and distribution practices in France violate French competition law, and issued a fine of \u20ac1.1 billion. The Company strongly disagrees with the FCA\u2019s decision, and has appealed.OptisOptis Wireless Technology, LLC and related entities (\u201cOptis\u201d) filed a lawsuit in the U.S. District Court for the Eastern District of Texas against the Company alleging that certain of the Company\u2019s products infringe on patents owned by Optis. On August 11, 2020, a jury returned a verdict against the Company and awarded damages. In post-trial proceedings, the damages portion of the verdict was set aside. A retrial on damages was held in August 2021 and the jury in that proceeding awarded damages of $300\u00a0million against the Company, which the Company plans to appeal.",
+    "Schedule Of Product Warranty Liability Table Text Block": "The following table shows changes in the Company\u2019s accrued warranties and related costs for 2021, 2020 and 2019 (in millions):202120202019Beginning accrued warranty and related costs$3,354\u00a0$3,570\u00a0$3,692\u00a0Cost of warranty claims(2,674)(2,956)(3,857)Accruals for product warranty2,684\u00a02,740\u00a03,735\u00a0Ending accrued warranty and related costs$3,364\u00a0$3,354\u00a0$3,570",
+    "Unrecorded Unconditional Purchase Obligations Disclosure Text Block": "Future payments under noncancelable unconditional purchase obligations having a remaining term in excess of one year as of September\u00a025, 2021, are as follows (in millions):2022$4,551\u00a020232,165\u00a02024984\u00a02025405\u00a0202651\u00a0Thereafter28\u00a0Total$8,184",
+    "Segment Reporting Disclosure Text Block": "Segment Information and Geographic DataThe Company reports segment information based on the \u201cmanagement\u201d approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company\u2019s reportable segments.The Company manages its business primarily on a geographic basis. The Company\u2019s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company\u2019s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company\u2019s customers and distribution partners and the unique market dynamics of each geographic region. The accounting policies of the various segments are the same as those described in Note 1, \u201cSummary of Significant Accounting Policies.\u201dThe Company evaluates the performance of its reportable segments based on net sales and operating income. Net sales for geographic segments are generally based on the location of customers and sales through the Company\u2019s retail stores located in those geographic locations. Operating income for each segment includes net sales to third parties, related cost of sales and operating expenses directly attributable to the segment. Advertising expenses are generally included in the geographic segment in which the expenditures are incurred. Operating income for each segment excludes other income and expense and certain expenses managed outside the reportable segments. Costs excluded from segment operating income include various corporate expenses such as research and development, corporate marketing expenses, certain share-based compensation expenses, income taxes, various nonrecurring charges and other separately managed general and administrative costs. The Company does not include intercompany transfers between segments for management reporting purposes.The following table shows information by reportable segment for 2021, 2020 and 2019 (in millions):202120202019Americas:Net sales$153,306\u00a0$124,556\u00a0$116,914\u00a0Operating income$53,382\u00a0$37,722\u00a0$35,099\u00a0Europe:Net sales$89,307\u00a0$68,640\u00a0$60,288\u00a0Operating income$32,505\u00a0$22,170\u00a0$19,195\u00a0Greater China:Net sales$68,366\u00a0$40,308\u00a0$43,678\u00a0Operating income$28,504\u00a0$15,261\u00a0$16,232\u00a0Japan:Net sales$28,482\u00a0$21,418\u00a0$21,506\u00a0Operating income$12,798\u00a0$9,279\u00a0$9,369\u00a0Rest of Asia Pacific:Net sales$26,356\u00a0$19,593\u00a0$17,788\u00a0Operating income$9,817\u00a0$6,808\u00a0$6,055\u00a0A reconciliation of the Company\u2019s segment operating income to the Consolidated Statements of Operations for 2021, 2020 and 2019 is as follows (in millions):202120202019Segment operating income$137,006\u00a0$91,240\u00a0$85,950\u00a0Research and development expense(21,914)(18,752)(16,217)Other corporate expenses, net(6,143)(6,200)(5,803)Total operating income$108,949\u00a0$66,288\u00a0$63,930\u00a0The U.S. and China were the only countries that accounted for more than 10% of the Company\u2019s net sales in 2021, 2020 and 2019. There was no single customer that accounted for more than 10% of net sales in 2021, 2020 and 2019. Net sales for 2021, 2020 and 2019 and long-lived assets as of September\u00a025, 2021 and September\u00a026, 2020 were as follows (in millions):202120202019Net sales:U.S.$133,803\u00a0$109,197\u00a0$102,266\u00a0China (1)68,366\u00a040,308\u00a043,678\u00a0Other countries163,648\u00a0125,010\u00a0114,230\u00a0Total net sales$365,817\u00a0$274,515\u00a0$260,174\u00a020212020Long-lived assets:U.S.$28,203\u00a0$25,890\u00a0China (1)7,521\u00a07,256\u00a0Other countries3,716\u00a03,620\u00a0Total long-lived assets$39,440\u00a0$36,766\u00a0(1)China includes Hong Kong and Taiwan. Long-lived assets located in China consist primarily of product tooling and manufacturing process equipment and assets related to retail stores and related infrastructure.",
+    "Segment Reporting Policy Policy Text Block": "The Company reports segment information based on the \u201cmanagement\u201d approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company\u2019s reportable segments.The Company manages its business primarily on a geographic basis. The Company\u2019s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company\u2019s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company\u2019s customers and distribution partners and the unique market dynamics of each geographic region. The accounting policies of the various segments are the same as those described in Note 1, \u201cSummary of Significant Accounting Policies.\u201dThe Company evaluates the performance of its reportable segments based on net sales and operating income. Net sales for geographic segments are generally based on the location of customers and sales through the Company\u2019s retail stores located in those geographic locations. Operating income for each segment includes net sales to third parties, related cost of sales and operating expenses directly attributable to the segment. Advertising expenses are generally included in the geographic segment in which the expenditures are incurred. Operating income for each segment excludes other income and expense and certain expenses managed outside the reportable segments. Costs excluded from segment operating income include various corporate expenses such as research and development, corporate marketing expenses, certain share-based compensation expenses, income taxes, various nonrecurring charges and other separately managed general and administrative costs. The Company does not include intercompany transfers between segments for management reporting purposes.",
+    "Schedule Of Segment Reporting Information By Segment Text Block": "The following table shows information by reportable segment for 2021, 2020 and 2019 (in millions):202120202019Americas:Net sales$153,306\u00a0$124,556\u00a0$116,914\u00a0Operating income$53,382\u00a0$37,722\u00a0$35,099\u00a0Europe:Net sales$89,307\u00a0$68,640\u00a0$60,288\u00a0Operating income$32,505\u00a0$22,170\u00a0$19,195\u00a0Greater China:Net sales$68,366\u00a0$40,308\u00a0$43,678\u00a0Operating income$28,504\u00a0$15,261\u00a0$16,232\u00a0Japan:Net sales$28,482\u00a0$21,418\u00a0$21,506\u00a0Operating income$12,798\u00a0$9,279\u00a0$9,369\u00a0Rest of Asia Pacific:Net sales$26,356\u00a0$19,593\u00a0$17,788\u00a0Operating income$9,817\u00a0$6,808\u00a0$6,055",
+    "Reconciliation Of Operating Profit Loss From Segments To Consolidated Text Block": "A reconciliation of the Company\u2019s segment operating income to the Consolidated Statements of Operations for 2021, 2020 and 2019 is as follows (in millions):202120202019Segment operating income$137,006\u00a0$91,240\u00a0$85,950\u00a0Research and development expense(21,914)(18,752)(16,217)Other corporate expenses, net(6,143)(6,200)(5,803)Total operating income$108,949\u00a0$66,288\u00a0$63,930",
+    "Schedule Of Revenues From External Customers And Long Lived Assets By Geographical Areas Table Text Block": "Net sales for 2021, 2020 and 2019 and long-lived assets as of September\u00a025, 2021 and September\u00a026, 2020 were as follows (in millions):202120202019Net sales:U.S.$133,803\u00a0$109,197\u00a0$102,266\u00a0China (1)68,366\u00a040,308\u00a043,678\u00a0Other countries163,648\u00a0125,010\u00a0114,230\u00a0Total net sales$365,817\u00a0$274,515\u00a0$260,174\u00a020212020Long-lived assets:U.S.$28,203\u00a0$25,890\u00a0China (1)7,521\u00a07,256\u00a0Other countries3,716\u00a03,620\u00a0Total long-lived assets$39,440\u00a0$36,766\u00a0(1)China includes Hong Kong and Taiwan. Long-lived assets located in China consist primarily of product tooling and manufacturing process equipment and assets related to retail stores and related infrastructure.",
+    "Revenue Remaining Performance Obligation Percentage": {
+        "value": 0.02,
+        "unit": "xbrli:pure"
+    },
+    "Entity Public Float": {
+        "value": 2021360000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Entity Common Stock Shares Outstanding": {
+        "value": 16406397000.0,
+        "unit": "xbrli:shares"
+    },
+    "Revenue From Contract With Customer Excluding Assessed Tax": {
+        "value": 260174000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cost Of Goods And Services Sold": {
+        "value": 161782000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Gross Profit": {
+        "value": 98392000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Research And Development Expense": {
+        "value": 16217000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Selling General And Administrative Expense": {
+        "value": 18245000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Expenses": {
+        "value": 34462000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Income Loss": {
+        "value": 63930000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Nonoperating Income Expense": {
+        "value": 1807000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest": {
+        "value": 65737000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Tax Expense Benefit": {
+        "value": 10481000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Net Income Loss": {
+        "value": 55256000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Earnings Per Share Basic": {
+        "value": 2.99,
+        "unit": "iso4217:USD"
+    },
+    "Earnings Per Share Diluted": {
+        "value": 2.97,
+        "unit": "iso4217:USD"
+    },
+    "Weighted Average Number Of Shares Outstanding Basic": {
+        "value": 18471336000.0,
+        "unit": "xbrli:shares"
+    },
+    "Weighted Average Number Of Diluted Shares Outstanding": {
+        "value": 18595651000.0,
+        "unit": "xbrli:shares"
+    },
+    "Other Comprehensive Income Loss Foreign Currency Transaction And Translation Adjustment Net Of Tax": {
+        "value": -408000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Derivative Instrument Gain Lossbefore Reclassificationafter Tax": {
+        "value": 79000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Unrealized Gain Loss On Derivatives Arising During Period Net Of Tax": {
+        "value": -661000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Derivative Instrument Gain Loss Reclassification After Tax": {
+        "value": 1264000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Reclassification Adjustment From A O C I On Derivatives Net Of Tax": {
+        "value": -23000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Derivative Instrument Gain Lossafter Reclassificationand Tax": {
+        "value": -1185000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Derivatives Qualifying As Hedges Net Of Tax": {
+        "value": -638000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Unrealized Holding Gain Loss On Securities Arising During Period Net Of Tax": {
+        "value": 3802000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Reclassification Adjustment From A O C I For Sale Of Securities Net Of Tax": {
+        "value": -25000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Available For Sale Securities Adjustment Net Of Tax": {
+        "value": 3827000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Comprehensive Income Loss Net Of Tax Portion Attributable To Parent": {
+        "value": 2781000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Comprehensive Income Net Of Tax": {
+        "value": 58037000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash And Cash Equivalents At Carrying Value": {
+        "value": 38016000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Marketable Securities Current": {
+        "value": 52927000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Accounts Receivable Net Current": {
+        "value": 16120000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Inventory Net": {
+        "value": 4061000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Nontrade Receivables Current": {
+        "value": 21325000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Assets Current": {
+        "value": 11264000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Assets Current": {
+        "value": 143713000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Marketable Securities Noncurrent": {
+        "value": 100887000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Property Plant And Equipment Net": {
+        "value": 36766000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Assets Noncurrent": {
+        "value": 42522000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Assets Noncurrent": {
+        "value": 180175000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Assets": {
+        "value": 323888000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Accounts Payable Current": {
+        "value": 42296000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Liabilities Current": {
+        "value": 42684000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Contract With Customer Liability Current": {
+        "value": 6643000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Commercial Paper": {
+        "value": 5000000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Current": {
+        "value": 8773000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Liabilities Current": {
+        "value": 105392000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Noncurrent": {
+        "value": 98667000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Liabilities Noncurrent": {
+        "value": 54490000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Liabilities Noncurrent": {
+        "value": 153157000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Liabilities": {
+        "value": 258549000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Commitments And Contingencies": {
+        "value": 0,
+        "unit": "iso4217:USD"
+    },
+    "Common Stock Par Or Stated Value Per Share": {
+        "value": 1e-05,
+        "unit": "iso4217:USD"
+    },
+    "Common Stock Shares Authorized": {
+        "value": 50400000000.0,
+        "unit": "xbrli:shares"
+    },
+    "Common Stock Shares Issued": {
+        "value": 16976763000.0,
+        "unit": "xbrli:shares"
+    },
+    "Common Stock Shares Outstanding": {
+        "value": 17772945000.0,
+        "unit": "xbrli:shares"
+    },
+    "Common Stocks Including Additional Paid In Capital": {
+        "value": 50779000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Retained Earnings Accumulated Deficit": {
+        "value": 14966000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Accumulated Other Comprehensive Income Loss Net Of Tax": {
+        "value": -406000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Stockholders Equity": {
+        "value": 90488000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Liabilities And Stockholders Equity": {
+        "value": 323888000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Stock Issued During Period Value New Issues": {
+        "value": 781000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Adjustments Related To Tax Withholding For Share Based Compensation": {
+        "value": 1029000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Adjustments To Additional Paid In Capital Sharebased Compensation Requisite Service Period Recognition Value": {
+        "value": 6194000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Dividends": {
+        "value": 14129000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Stock Repurchased And Retired During Period Value": {
+        "value": 85500000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Common Stock Dividends Per Share Declared": {
+        "value": 0.75,
+        "unit": "iso4217:USD"
+    },
+    "Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents": {
+        "value": 50224000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Depreciation Depletion And Amortization": {
+        "value": 12547000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Share Based Compensation": {
+        "value": 6068000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Income Tax Expense Benefit": {
+        "value": -340000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Noncash Income Expense": {
+        "value": 652000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Accounts Receivable": {
+        "value": -245000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Inventories": {
+        "value": 289000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Other Receivables": {
+        "value": -2931000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Other Operating Assets": {
+        "value": -873000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Accounts Payable": {
+        "value": -1923000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Contract With Customer Liability": {
+        "value": -625000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Increase Decrease In Other Operating Liabilities": {
+        "value": -4700000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Net Cash Provided By Used In Operating Activities": {
+        "value": 69391000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments To Acquire Available For Sale Securities Debt": {
+        "value": 39630000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities": {
+        "value": 40102000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Sale Of Available For Sale Securities Debt": {
+        "value": 56988000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments To Acquire Property Plant And Equipment": {
+        "value": 10495000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments To Acquire Businesses Net Of Cash Acquired": {
+        "value": 624000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments To Acquire Other Investments": {
+        "value": 1001000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Sale And Maturity Of Other Investments": {
+        "value": 1634000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments For Proceeds From Other Investing Activities": {
+        "value": 1078000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Net Cash Provided By Used In Investing Activities": {
+        "value": 45896000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Issuance Of Common Stock": {
+        "value": 781000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments Related To Tax Withholding For Share Based Compensation": {
+        "value": 3000000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments Of Dividends": {
+        "value": 14119000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Payments For Repurchase Of Common Stock": {
+        "value": 66897000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Issuance Of Long Term Debt": {
+        "value": 6963000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Repayments Of Long Term Debt": {
+        "value": 8805000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Repayments Of Commercial Paper": {
+        "value": -5977000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Payments For Other Financing Activities": {
+        "value": -105000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Net Cash Provided By Used In Financing Activities": {
+        "value": -90976000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents Period Increase Decrease Including Exchange Rate Effect": {
+        "value": 24311000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Taxes Paid Net": {
+        "value": 15263000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Interest Paid Net": {
+        "value": 3423000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Weighted Average Number Diluted Shares Outstanding Adjustment": {
+        "value": 124315000.0,
+        "unit": "xbrli:shares"
+    },
+    "Antidilutive Securities Excluded From Computation Of Earnings Per Share Amount": {
+        "value": 62000000.0,
+        "unit": "xbrli:shares"
+    },
+    "Depreciation": {
+        "value": 11300000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Non Cash Activities Involving Property Plantand Equipment Net Increase Decreaseto Accounts Payableand Other Current Liabilities": {
+        "value": -2900000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Performance Obligationsin Arrangements": {
+        "value": 3,
+        "unit": "aapl:obligation"
+    },
+    "Contract With Customer Liability": {
+        "value": 10200000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Contract With Customer Liability Revenue Recognized": {
+        "value": 5900000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash": {
+        "value": 17773000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Equity Securities Fv Ni Cost": {
+        "value": 2171000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Equity Securities F V N I Accumulated Gross Unrealized Gain Before Tax": {
+        "value": 0,
+        "unit": "iso4217:USD"
+    },
+    "Equity Securities F V N I Accumulated Gross Unrealized Loss Before Tax": {
+        "value": 0,
+        "unit": "iso4217:USD"
+    },
+    "Equity Securities Fv Ni Current And Noncurrent": {
+        "value": 2171000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Debt Securities Amortized Cost Basis": {
+        "value": 169487000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Debt Securities Accumulated Gross Unrealized Gain Before Tax": {
+        "value": 2784000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Debt Securities Accumulated Gross Unrealized Loss Before Tax": {
+        "value": 385000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Securities Debt Securities": {
+        "value": 171886000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash Cash Equivalents And Marketable Securities Cost": {
+        "value": 189431000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash Equivalents And Marketable Securities Accumulated Gross Unrealized Gain Before Tax": {
+        "value": 2784000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash Equivalents And Marketable Securities Accumulated Gross Unrealized Loss Before Tax": {
+        "value": 385000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Cash Cash Equivalents And Marketable Securities": {
+        "value": 191830000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Restricted Investments": {
+        "value": 18600000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Securities Debt Maturities Rolling Year Two Through Five Fair Value": {
+        "value": 83755000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Securities Debt Maturities Rolling Year Six Through Ten Fair Value": {
+        "value": 23915000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Securities Debt Maturities Rolling After Year Ten Fair Value": {
+        "value": 20207000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Available For Sale Securities Debt Maturities Single Maturity Date": {
+        "value": 127877000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Derivative Notional Amount": {
+        "value": 88636000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Hedged Asset Fair Value Hedge": {
+        "value": 16270000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Hedged Liability Fair Value Hedge": {
+        "value": 21033000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Number Of Customers With Significant Accounts Receivable Balance": {
+        "value": 0,
+        "unit": "aapl:Customer"
+    },
+    "Concentration Risk Percentage1": {
+        "value": 0.11,
+        "unit": "xbrli:pure"
+    },
+    "Number Of Significant Vendors": {
+        "value": 2,
+        "unit": "aapl:Vendor"
+    },
+    "Property Plant And Equipment Gross": {
+        "value": 103526000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Accumulated Depreciation Depletion And Amortization Property Plant And Equipment": {
+        "value": 66760000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Accrued Income Taxes Noncurrent": {
+        "value": 28170000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Accrued Liabilities Noncurrent": {
+        "value": 26320000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Investment Income Interest And Dividend": {
+        "value": 4961000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Interest Expense": {
+        "value": 3576000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other Nonoperating Income Expense": {
+        "value": 422000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Current Federal Tax Expense Benefit": {
+        "value": 6384000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Federal Income Tax Expense Benefit": {
+        "value": -2939000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Federal Income Tax Expense Benefit Continuing Operations": {
+        "value": 3445000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Current State And Local Tax Expense Benefit": {
+        "value": 475000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred State And Local Income Tax Expense Benefit": {
+        "value": -67000000.0,
+        "unit": "iso4217:USD"
+    },
+    "State And Local Income Tax Expense Benefit Continuing Operations": {
+        "value": 408000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Current Foreign Tax Expense Benefit": {
+        "value": 3962000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Foreign Income Tax Expense Benefit": {
+        "value": 2666000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Foreign Income Tax Expense Benefit Continuing Operations": {
+        "value": 6628000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Loss From Continuing Operations Before Income Taxes Foreign": {
+        "value": 44300000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Effective Income Tax Rate Reconciliation At Federal Statutory Income Tax Rate": {
+        "value": 0.21,
+        "unit": "xbrli:pure"
+    },
+    "Income Tax Reconciliation Income Tax Expense Benefit At Federal Statutory Income Tax Rate": {
+        "value": 13805000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Tax Reconciliation State And Local Income Taxes": {
+        "value": 423000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Effective Income Tax Rate Reconciliation Tax Cuts And Jobs Act Of2017 Amount": {
+        "value": 0,
+        "unit": "iso4217:USD"
+    },
+    "Income Tax Reconciliation Foreign Income Tax Rate Differential": {
+        "value": -2625000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Effective Income Tax Rate Reconciliation Foreign Derived Intangible Income Deduction Amount": {
+        "value": 149000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Tax Reconciliation Tax Credits Research": {
+        "value": 548000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Effective Income Tax Rate Reconciliation Share Based Compensation Excess Tax Benefit Amount": {
+        "value": -639000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Tax Reconciliation Other Adjustments": {
+        "value": 214000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Effective Income Tax Rate Continuing Operations": {
+        "value": 0.159,
+        "unit": "xbrli:pure"
+    },
+    "Deferred Tax Assets Goodwill And Intangible Assets": {
+        "value": 8317000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Tax Deferred Expense Reserves And Accruals": {
+        "value": 4934000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Lease Liabilities": {
+        "value": 2038000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Deferred Income": {
+        "value": 1638000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Tax Credit Carryforwards": {
+        "value": 797000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Other": {
+        "value": 1612000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Gross": {
+        "value": 19336000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Valuation Allowance": {
+        "value": 1041000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Net": {
+        "value": 18295000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Liabilities Minimum Taxon Foreign Earnings": {
+        "value": 7045000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Liabilities Leasing Arrangements": {
+        "value": 1862000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Liabilities Other Comprehensive Income": {
+        "value": 526000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Liabilities Other": {
+        "value": 705000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Income Tax Liabilities": {
+        "value": 10138000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Liabilities Net": {
+        "value": 8157000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Tax Credit Carryforwards Foreign": {
+        "value": 2600000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Deferred Tax Assets Tax Credit Carryforwards Research": {
+        "value": 1600000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits": {
+        "value": 15619000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits That Would Impact Effective Tax Rate": {
+        "value": 8800000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Increases Resulting From Prior Period Tax Positions": {
+        "value": 5845000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Decreases Resulting From Prior Period Tax Positions": {
+        "value": 686000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Increases Resulting From Current Period Tax Positions": {
+        "value": 1697000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Decreases Resulting From Settlements With Taxing Authorities": {
+        "value": 852000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Reductions Resulting From Lapse Of Applicable Statute Of Limitations": {
+        "value": 79000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Decrease In Unrecognized Tax Benefits Is Reasonably Possible": {
+        "value": 1200000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Income Tax Penalties And Interest Accrued": {
+        "value": 1400000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecognized Tax Benefits Income Tax Penalties And Interest Expense": {
+        "value": 73000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Income Tax Contingency Number Of Subsidiaries": {
+        "value": 2,
+        "unit": "aapl:Subsidiary"
+    },
+    "Loss Contingency Estimate Of Possible Loss": {
+        "value": 12700000000.0,
+        "unit": "iso4217:EUR"
+    },
+    "Operating Lease Cost": {
+        "value": 1500000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Variable Lease Cost": {
+        "value": 9300000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Leases Rent Expense Net": {
+        "value": 1300000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Lease Payments": {
+        "value": 1500000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Rightof Use Assets Obtainedin Exchangefor Operatingand Finance Lease Liabilities": {
+        "value": 10500000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Lease Right Of Use Asset": {
+        "value": 8570000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Right Of Use Asset": {
+        "value": 629000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operatingand Finance Lease Rightof Use Asset": {
+        "value": 9199000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Lease Liability Current": {
+        "value": 1436000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Lease Liability Noncurrent": {
+        "value": 7745000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Current": {
+        "value": 24000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Noncurrent": {
+        "value": 637000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operatingand Finance Lease Liability": {
+        "value": 11803000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due Next Twelve Months": {
+        "value": 1629000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due Next Twelve Months": {
+        "value": 104000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating And Finance Lease Liability To Be Paid Year One": {
+        "value": 1733000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due Year Two": {
+        "value": 1560000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due Year Two": {
+        "value": 123000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating And Finance Lease Liability To Be Paid Year Two": {
+        "value": 1683000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due Year Three": {
+        "value": 1499000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due Year Three": {
+        "value": 99000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating And Finance Lease Liability To Be Paid Year Three": {
+        "value": 1598000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due Year Four": {
+        "value": 1251000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due Year Four": {
+        "value": 46000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating And Finance Lease Liability To Be Paid Year Four": {
+        "value": 1297000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due Year Five": {
+        "value": 1061000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due Year Five": {
+        "value": 26000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating And Finance Lease Liability To Be Paid Year Five": {
+        "value": 1087000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due After Year Five": {
+        "value": 5187000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due After Year Five": {
+        "value": 868000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating And Finance Lease Liability To Be Paid After Year Five": {
+        "value": 6055000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Payments Due": {
+        "value": 12187000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Payments Due": {
+        "value": 1266000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operatingand Finance Lease Liability Payments Due": {
+        "value": 13453000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operating Lease Liability Undiscounted Excess Amount": {
+        "value": 1232000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability Undiscounted Excess Amount": {
+        "value": 418000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Lessee Operatingand Finance Lease Liability Undiscounted Excess Amount": {
+        "value": 1650000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operating Lease Liability": {
+        "value": 10955000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Finance Lease Liability": {
+        "value": 848000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Operatingand Finance Lease Weighted Average Discount Rate Percent": {
+        "value": 0.02,
+        "unit": "xbrli:pure"
+    },
+    "Lessee Operating And Finance Lease Lease Not Yet Commenced Payments Due": {
+        "value": 1100000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Short Term Debt Weighted Average Interest Rate": {
+        "value": 0.0062,
+        "unit": "xbrli:pure"
+    },
+    "Proceeds From Repayments Of Short Term Debt Maturing In Three Months Or Less": {
+        "value": -3248000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Short Term Debt Maturing In More Than Three Months": {
+        "value": 13874000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Repayments Of Short Term Debt Maturing In More Than Three Months": {
+        "value": 16603000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Repayments Of Short Term Debt Maturing In More Than Three Months": {
+        "value": -2729000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Proceeds From Other Short Term Debt": {
+        "value": 5200000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Repayments Of Other Short Term Debt": {
+        "value": 5200000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Debt Instrument Carrying Amount": {
+        "value": 118063000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Debt Instrument Interest Rate Effective Percentage": {
+        "value": 0,
+        "unit": "xbrli:pure"
+    },
+    "Debt Instrument Interest Rate Stated Percentage": {
+        "value": 0.0285,
+        "unit": "xbrli:pure"
+    },
+    "Debt Instrument Unamortized Discount Premium And Debt Issuance Costs Net": {
+        "value": 314000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Hedge Accounting Adjustments Related To Term Debt": {
+        "value": 1676000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Interest Expense Debt": {
+        "value": 3200000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Maturities Repayments Of Principal In Next Twelve Months": {
+        "value": 9583000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Maturities Repayments Of Principal In Year Two": {
+        "value": 11391000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Maturities Repayments Of Principal In Year Three": {
+        "value": 10202000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Maturities Repayments Of Principal In Year Four": {
+        "value": 10914000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Maturities Repayments Of Principal In Year Five": {
+        "value": 11408000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Maturities Repayments Of Principal After Year Five": {
+        "value": 64565000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Long Term Debt Fair Value": {
+        "value": 117100000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Stock Repurchase Program Authorized Amount1": {
+        "value": 315000000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Stock Repurchased And Retired During Period Shares": {
+        "value": 1380819000.0,
+        "unit": "xbrli:shares"
+    },
+    "Up Front Payment Under Accelerated Share Repurchase Agreement": {
+        "value": 5000000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Amount Utilized Under Share Repurchase Program": {
+        "value": 254100000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Stock Issued During Period Shares Sharebased Payment Arrangement Netof Shares Withheldfor Taxes": {
+        "value": 133821000.0,
+        "unit": "xbrli:shares"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Number Of Shares Of Common Stock Issued Per Unit Upon Vesting": {
+        "value": 1,
+        "unit": "xbrli:pure"
+    },
+    "Factor By Which Each R S U Granted Reduces And Each R S U Canceled Or Share Withheld For Taxes Increases Shares Available For Grant": {
+        "value": 2,
+        "unit": "xbrli:pure"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Number Of Shares Available For Grant": {
+        "value": 96000000.0,
+        "unit": "xbrli:shares"
+    },
+    "Sharebased Compensation Arrangement By Sharebased Payment Award Purchase Price Of Common Stock Percent": {
+        "value": 0.85,
+        "unit": "xbrli:pure"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Maximum Employee Subscription Rate": {
+        "value": 0.1,
+        "unit": "xbrli:pure"
+    },
+    "Employee Stock Purchase Plan Maximum Annual Purchases Per Employee Amount": {
+        "value": 25000.0,
+        "unit": "iso4217:USD"
+    },
+    "Defined Contribution Plan Maximum Annual Contributions Per Employee Amount": {
+        "value": 19500.0,
+        "unit": "iso4217:USD"
+    },
+    "Defined Contribution Plan Employer Matching Contribution Percent Of Match": {
+        "value": 1.0,
+        "unit": "xbrli:pure"
+    },
+    "Defined Contribution Plan Employer Matching Contribution Percent": {
+        "value": 0.06,
+        "unit": "xbrli:pure"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Nonvested Number": {
+        "value": 240427000.0,
+        "unit": "xbrli:shares"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Nonvested Weighted Average Grant Date Fair Value": {
+        "value": 75.16,
+        "unit": "iso4217:USD"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Grants In Period": {
+        "value": 89363000.0,
+        "unit": "xbrli:shares"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Grants In Period Weighted Average Grant Date Fair Value": {
+        "value": 116.33,
+        "unit": "iso4217:USD"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Vested In Period": {
+        "value": 145766000.0,
+        "unit": "xbrli:shares"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Vested In Period Weighted Average Grant Date Fair Value": {
+        "value": 50.71,
+        "unit": "iso4217:USD"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Forfeited In Period": {
+        "value": 13948000.0,
+        "unit": "xbrli:shares"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Forfeitures Weighted Average Grant Date Fair Value": {
+        "value": 68.95,
+        "unit": "iso4217:USD"
+    },
+    "Sharebased Compensation Arrangement By Sharebased Payment Award Equity Instruments Other Than Options Aggregate Intrinsic Value Nonvested": {
+        "value": 35324000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Vested In Period Total Fair Value": {
+        "value": 8600000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Shares Paid For Tax Withholding For Share Based Compensation": {
+        "value": 59000000.0,
+        "unit": "xbrli:shares"
+    },
+    "Allocated Share Based Compensation Expense": {
+        "value": 6068000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Employee Service Share Based Compensation Tax Benefit From Compensation Expense": {
+        "value": 1967000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Employee Service Share Based Compensation Nonvested Awards Total Compensation Cost Not Yet Recognized": {
+        "value": 13600000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Standard Product Warranty Accrual": {
+        "value": 3570000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Standard Product Warranty Accrual Payments": {
+        "value": 3857000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Standard Product Warranty Accrual Warranties Issued": {
+        "value": 3735000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Balance On First Anniversary": {
+        "value": 4551000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Balance On Second Anniversary": {
+        "value": 2165000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Balance On Third Anniversary": {
+        "value": 984000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Balance On Fourth Anniversary": {
+        "value": 405000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Balance On Fifth Anniversary": {
+        "value": 51000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Due After Five Years": {
+        "value": 28000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Unrecorded Unconditional Purchase Obligation Balance Sheet Amount": {
+        "value": 8184000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Litigation Settlement Amount Awarded To Other Party": {
+        "value": 300000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Other General And Administrative Expense": {
+        "value": 5803000000.0,
+        "unit": "iso4217:USD"
+    },
+    "Noncurrent Assets": {
+        "value": 36766000000.0,
+        "unit": "iso4217:USD"
+    }
+}
